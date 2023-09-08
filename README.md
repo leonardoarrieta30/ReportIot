@@ -652,24 +652,25 @@ En este punto presentaremos los resultados de las entrevistas realizadas a los u
 	#### Puntos en común:
 	
 	#### Segmento 1: Personas con dificultad para movilizarse o sus familiares
-	**¿Cuáles son los principales motivos por el cual usted contrataría el servicio de un profesional de la salud a domicilio?** <br><br>
+	- **¿Cuáles son los principales motivos por los cuales contrataría el servicio de un profesional de la salud a domicilio?** <br><br>
 	El 75% de los entrevistados concuerdan en que el principal motivo por el cual contratan el servicio de un profesional de la salud a domicilio es para que se ocupen de todas las necesidades médicas de su familiar ya que por algunos factores como, por ejemplo, el tiempo no les es posible hacerse cargo completamente.<br><br>
-	**¿Cuál es la mayor dificultad que ha identificado en el tiempo que lleva cuidando a su familiar?** <br><br> 
-	El 100% de los entrevistados coinciden en que la mayor dificultad al momento de cuidar de un familiar con limitaciones es la movilidad de este mismo, pues él requiere del apoyo de otras personas y esta no siempre cuentan con el tiempo necesario.<br><br>
-	**¿Cuánto tiempo le toma el cuidado de su familiar discapacitado diariamente?** <br><br>
-	En base a las entrevistas, se deduce que el tiempo que se invierte en el cuidado del familiar varía entre 4 a 12 horas dependiendo de las actividades que se tengan que realizar en el día.<br><br>
-	**¿Su familiar requiere de algún medicamento o tratamiento? y si así fuera ¿Quién es el responsable de administrar su medicina?** <br><br>
-	El 75% de los entrevistados indica que sus familiares requieren la administración de medicamento constantemente, la cual es brindada por la misma familia.<br><br>
-	**¿Cuáles son las dificultades que ha encontrado en el servicio de clínica en la atención a su familiar?** <br><br>
-	El 50% de los entrevistados afirma que el tiempo de espera es muy lento, lo cual no satisface las necesidades del enfermo.<br><br>
-	**¿Cuáles serían los factores que determinan su confianza en un sistema web de atención a domicilio?** <br><br>
-	El 50% de mis entrevistados consideran que la seguridad de los datos es uno de los factores que determinarían su confianza en una plataforma digital. Asimismo, otro 50% considera, como otro posible factor, las recomendaciones de esta plataforma dadas por terceros.<br><br>
-	**¿Qué tan importante es para usted tener el control de elegir (personalizar) a su profesional de la salud?** <br><br> 
-	El 100% de los entrevistados coinciden en que es de suma importancia poder elegir al profesional de la salud que acudirá a su domicilio, pues debe asegurarse de que sea un médico o enfermero confiable y capaz de generar mejoras en la salud del paciente. <br><br>
-	**¿Considera una ventaja tener un registro actualizado de cada análisis que se le realiza a su familiar con limitación para un monitoreo más íntegro?** <br><br> 
-	El 100% de los entrevistados mantiene que el registro actualizado de cada análisis que se le realiza a su familiar es de suma importancia, pues permite acceder a la información sobre la condición actual del paciente.<br><br>
-	**¿Considera que su trabajo u otras áreas de su vida se ven afectadas por el tiempo que debe dedicar a cuidar a su familiar?** <br><br> 
-	El 100% de los entrevistados afirma que varios aspectos de su vida se ven afectados por esto ya que reduce el tiempo disponible durante el día para realizar sus labores cotidianas.<br><br>
+	- **¿Cuál es la mayor dificultad que ha identificado en el tiempo que lleva cuidando a su familiar?** <br><br> 
+	  El 100% de los entrevistados coinciden en que la mayor dificultad al momento de cuidar de un familiar con limitaciones es la movilidad de este mismo, pues él requiere del apoyo de otras personas y esta no siempre cuentan con el tiempo necesario.<br><br>
+	- **¿Cuánto tiempo le toma el cuidado de su familiar discapacitado diariamente?** <br><br>
+	  En base a las entrevistas, se deduce que el tiempo que se invierte en el cuidado del familiar varía entre 4 a 12 horas dependiendo de las actividades que se tengan que realizar en el día.<br><br>
+	- **¿Su familiar requiere de algún medicamento o tratamiento? y si así fuera ¿Quién es el responsable de administrar su medicina?** <br><br>
+	  El 75% de los entrevistados indica que sus familiares requieren la administración de medicamento constantemente, la cual es brindada por la misma familia.<br><br>
+	- **¿Cuáles son las dificultades que ha encontrado en el servicio de clínica en la atención a su familiar?** <br><br>
+	  El 50% de los entrevistados afirma que el tiempo de espera es muy lento, lo cual no satisface las necesidades del enfermo.<br><br>
+	- **¿Cuáles serían los factores que determinan su confianza en un sistema web de atención a domicilio?** <br><br>
+	  El 50% de mis entrevistados consideran que la seguridad de los datos es uno de los factores que determinarían su confianza en una plataforma digital. Asimismo, otro 50% considera, como otro posible factor, las recomendaciones de esta plataforma dadas por terceros.<br><br>
+	- **¿Qué tan importante es para usted tener el control de elegir (personalizar) a su profesional de la salud?** <br><br> 
+	  El 100% de los entrevistados coinciden en que es de suma importancia poder elegir al profesional de la salud que acudirá a su domicilio, pues debe asegurarse de que sea un médico o enfermero confiable y capaz de generar mejoras en la salud del paciente. <br><br>
+	- **¿Considera una ventaja tener un registro actualizado de cada análisis que se le realiza a su familiar con limitación para un monitoreo más íntegro?** <br><br> 
+	  El 100% de los entrevistados mantiene que el registro actualizado de cada análisis que se le realiza a su familiar es de suma importancia, pues permite acceder a la información sobre la condición actual del paciente.<br><br>
+	- **¿Considera que su trabajo u otras áreas de su vida se ven afectadas por el tiempo que debe dedicar a cuidar a su familiar?** <br><br> 
+	  El 100% de los entrevistados afirma que varios aspectos de su vida se ven afectados por esto ya que reduce el tiempo disponible durante el día para realizar sus labores cotidianas.<br><br>
+
 	
 	#### Análisis General de las entrevistas del Segmento objetivo:
 	
@@ -677,31 +678,38 @@ En este punto presentaremos los resultados de las entrevistas realizadas a los u
 	Haciendo un análisis general de las entrevistas se puede evidenciar lo siguiente. La totalidad de los entrevistados coincide en que la mayor dificultad que se presenta durante el cuidado de algún familiar es la movilidad (75%), lo cual les consume mucho tiempo, por lo que varios aspectos de su vida se ven afectados debido a esto (labores diarias). Asimismo, consideran que es un aspecto muy importante poder elegir al personal médico y llevar un registro de los análisis de su familiar (100%). Sin embargo, para que esto sea viable es necesario que la seguridad de la aplicación sea alta ya que se estaría trabajando con los datos personales de los clientes. Por otro lado, se identificó que, de los entrevistados, 2 eran hombres y 2 mujeres, y el margen de edades iba desde los 19 hasta los 41 años. Todos ellos vivían en Lima Metropolitana, pero en distintos distritos. La ocupación de cada uno era diferente, 2 de ellos eran casados, 3 de los 4 utilizaban laptop y celular, todos utilizan WhatsApp, 2 de los 4 Facebook y 1 de los 4 Google, cada uno posee distintas habilidades y, para terminar, 2 de los 4 están frustrados por el deterioro de la salud de sus seres queridos. 
 	
 	#### Segmento 2: Fisioterapeutas
-	**¿Cuál es el factor principal por el cual los adultos mayores optan por no acudir a los centros médicos?** <br><br> 
+	- **¿Cuál es el factor principal por el cual los adultos mayores optan por no acudir a los centros médicos?** <br><br> 
 	Un 33,3% de los entrevistados asegura que los adultos mayores no tienen a un familiar que los acompañe. Otro 33,3% menciona que los gastos de atención son costosos. El 33,3% restante mantiene que ellos no disponen del tiempo para atenderse en un centro de salud. <br><br> 
-	**¿Cuánta experiencia tiene usted como cuidador de personas mayores y/o personas con limitaciones físicas o mentales?**  <br><br>  
-	El 100% de los entrevistados tiene mucha experiencia médica sobre el cuidado de personas con limitaciones físicas y/o mentales.  <br><br> 
-	**¿Con cuánta frecuencia atiende a personas con alguna discapacidad física, mental o de otra índole?**  <br><br>  
-	El 66,6% de los entrevistados mencionan que atienden con frecuencia a personas con alguna discapacidad, que en su mayoría presentan limitaciones físicas. <br><br> 
-	**¿Cuál es el problema más frecuente que se da cuando familiares no capacitados se encargan de administrar el tratamiento médico de algún paciente con limitaciones físicas, mentales o con presencia de enfermedades crónicas?**  <br><br>  
-	El 100% de los entrevistados asegura que el desconocimiento del familiar, a cargo del cuidado del paciente, perjudica su condición. En otras palabras, no controlar o tratar la enfermedad de forma incorrecta puede agravar la condición del paciente. <br><br> 
-	**¿Cuáles son las diferencias de ser un médico de casa a uno de clínica?**  <br><br>  
-	El 100% de entrevistados coincide en que, a diferencia del médico de clínica, el médico de casa genera una mayor conexión con el familiar, por el tiempo que tiene para solo un paciente. <br><br>  
-	**¿Qué opina acerca de que usted pueda colocar su propia tarifa de servicio?**  <br><br> 
-	El 100% de los entrevistados está de acuerdo en poder colocar su propia tarifa. Así los clientes tendrán variedad para escoger al profesional de su preferencia. <br><br> 
-	**¿Considera una ventaja para usted que en una plataforma se le pueda valorar su servicio a través de reseñas o puntuaciones?**  <br><br>  
-	El 100% de los entrevistados creen que es una característica positiva en el servicio, ya que podrán adquirir recomendaciones por el buen trabajo que realicen. <br><br> 
-	**¿Cómo reacciona ante situaciones de gran estrés o cómo maneja eficazmente el estrés personal en su trabajo como profesional de la salud?**  <br><br> 
-	El 66,6% de los entrevistados, mencionan que ponen en práctica actividades de control de estrés como por ejemplo reflexionar de lo que debe y puede hacer o acudir a terapia para relajarse y buscar soluciones efectivas.  <br><br> 
-	**¿Cómo le han ayudado sus habilidades de escucha, a entender y diagnosticar correctamente las necesidades de sus pacientes?**  <br><br> 
-	El 100% de los entrevistados considera que las habilidades de escuchar les ayudan a comprender mejor a sus pacientes y diagnosticarlos de manera eficaz.  <br><br> 
-	**¿Cuál sería el porcentaje apropiado que estaría dispuesto a descontar de sus ingresos mensuales por conceptos de captación de pacientes a través de una aplicación?**  <br><br>  
-	El 66,6% de los entrevistados no está dispuesto a bajar sus ingresos mensuales. <br><br> 
+	- **¿Cuánta experiencia tiene usted como cuidador de personas mayores y/o personas con limitaciones físicas o mentales?**  <br><br>  
+	  El 100% de los entrevistados tiene mucha experiencia médica sobre el cuidado de personas con limitaciones físicas y/o mentales.  <br><br> 
+	- **¿Con cuánta frecuencia atiende a personas con alguna discapacidad física, mental o de otra índole?**  <br><br>  
+	  El 66,6% de los entrevistados mencionan que atienden con frecuencia a personas con alguna discapacidad, que en su mayoría presentan limitaciones físicas. <br><br> 
+	- **¿Cuál es el problema más frecuente que se da cuando familiares no capacitados se encargan de administrar el tratamiento médico de algún paciente con limitaciones físicas, mentales o con presencia de enfermedades crónicas?**  <br><br>  
+	  El 100% de los entrevistados asegura que el desconocimiento del familiar, a cargo del cuidado del paciente, perjudica su condición. En otras palabras, no controlar o tratar la enfermedad de forma incorrecta puede agravar la condición del paciente. <br><br> 
+	- **¿Cuáles son las diferencias de ser un médico de casa a uno de clínica?**  <br><br>  
+	  El 100% de entrevistados coincide en que, a diferencia del médico de clínica, el médico de casa genera una mayor conexión con el familiar, por el tiempo que tiene para solo un paciente. <br><br>  
+	- **¿Qué opina acerca de que usted pueda colocar su propia tarifa de servicio?**  <br><br> 
+	  El 100% de los entrevistados está de acuerdo en poder colocar su propia tarifa. Así los clientes tendrán variedad para escoger al profesional de su preferencia. <br><br> 
+	- **¿Considera una ventaja para usted que en una plataforma se le pueda valorar su servicio a través de reseñas o puntuaciones?**  <br><br>
+	  El 100% de los entrevistados creen que es una característica positiva en el servicio, ya que podrán adquirir recomendaciones por el buen trabajo que realicen. <br><br> 
+	- **¿Cómo reacciona ante situaciones de gran estrés o cómo maneja eficazmente el estrés personal en su trabajo como profesional de la salud?**  <br><br> 
+	  El 66,6% de los entrevistados, mencionan que ponen en práctica actividades de control de estrés como por ejemplo reflexionar de lo que debe y puede hacer o acudir a terapia para relajarse y buscar soluciones efectivas.  <br><br> 
+	- **¿Cómo le han ayudado sus habilidades de escucha, a entender y diagnosticar correctamente las necesidades de sus pacientes?**  <br><br> 
+	  El 100% de los entrevistados considera que las habilidades de escuchar les ayudan a comprender mejor a sus pacientes y diagnosticarlos de manera eficaz.  <br><br> 
+	- **¿Cuál sería el porcentaje apropiado que estaría dispuesto a descontar de sus ingresos mensuales por conceptos de captación de pacientes a través de una aplicación?**  <br><br>  
+	  El 66,6% de los entrevistados no está dispuesto a bajar sus ingresos mensuales. <br><br> 
+
 	
 	#### Análisis General de las entrevistas del Segmento objetivo:
 	**Fisioterapeutas:** <br><br> 
 	Haciendo un análisis general de las entrevistas se puede evidenciar lo siguiente. La totalidad de los entrevistados cuenta con bastante experiencia respecto al cuidado de personas con limitaciones físicas y/o mentales. Asimismo, consideran que es peligroso que una persona no experimentada, familiar del paciente en este contexto, aplique los tratamientos o medicamentos al paciente ya que no tienen el conocimiento adecuado. Por otro lado, están de acuerdo en que nuestra plataforma les permita colocar su propia tarifa por concepto de atentación ya que de esta forma los usuarios podrán elegir al profesional de la salud que mejor le convenga y, después de realizado el tratamiento se le pueda calificar a través de reseñas o puntuaciones, esto no solo les permitiría obtener una retroalimentación de su servicio sino también una oportunidad de que los demás usuarios lo conozcan y elijan para tratar a sus familiares. Sin embargo, una gran parte de ellos (66,6%) no está dispuesto a tener una retención del 10% de sus ingresos mensuales. Por otro lado, 2 de los 3 entrevistados fueron mujeres, el margen de edades iba desde los 34 hasta los 50 años, los 3 vivían en Lima, aunque en distintos distritos, los 3 trabajan en alguna rama de la medicina (2 fisioterapeutas y 1 anestesióloga), 2 de los 3 ya se encontraban casados, 2 de los 3 utilizaban laptop y celular, los 3 utilizan WhatsApp, 2 de los 3 saben actuar en momentos de estrés y, para terminar, los 3 tienen distintas frustraciones.
 
-
-
-	
+### 2.3. Needfinding
+ - 2.3.1. User Personas
+	- Segmento: Paciente<br> 
+	  ![User Persona Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/User%20Persona/User%20persona%20paciente.png)<br><br>
+   	- Segmento: Fisioterapeuta<br>
+   	  ![User Persona Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/User%20Persona/User%20persona%20fisioterapeuta.png)<br><br>
+ - 2.3.2. User Task Matrix<br><br>
+	![Task Matrix Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TaskMatrix/TaskMatrix%20Pacientes.jpg)<br><br>
+ 	![Task Matrix Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TaskMatrix/TaskMatrix%20Fisioterapeuta.jpg)<br><br>
