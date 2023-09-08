@@ -728,5 +728,61 @@ En este punto presentaremos los resultados de las entrevistas realizadas a los u
  	#### Segmento 2: Fisioterapeutas
 	![Journey Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/JourneyMaps/JourneyMap%20Fisioterapeutas.png)<br><br>
  	
-	Se presenta el User Journey Map para el segmento de fisioterapeutas, en el cual se establecen las distintas etapas por las que pasa este usuario durante el uso de la aplicación.
+	Se presenta el User Journey Map para el segmento de fisioterapeutas, en el cual se establecen las distintas etapas por las que pasa este usuario durante el uso de la aplicación.<br>
 	Link UXPRESSIA para visualización de los User Journey Map: https://uxpressia.com/w/v8FzI/p/ZGwSo
+
+ - 2.3.4. Empathy Mapping<br><br>
+	En esta sección se realizó el Empathy Map de nuestros usuarios para identificar y comprender el contexto total en el que habitan. Este análisis nos ayudara a profundizar en las necesidades de los clientes para enfocarnos en brindar servicios útiles para ellos.
+	#### Segmento 1: Paciente con problemas físicos
+	![Emphaty Map Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/EmpathyMaps/EmpathyMap%20Pacientes.png)<br><br>
+	Se presenta el Empathy Map del segmento de pacientes con problemas físicos, en el cual se describe las ideas, motivaciones, frustraciones y demandas de los usuarios de este segmento.
+
+	#### Segmento 2: Fisioterapeutas
+	![Emphaty Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/EmpathyMaps/EmpathyMap%20Fisioterapeutas.png)<br><br>
+	Se presenta el Empathy Map del segmento de fisioterapeutas, en el cual se describe las ideas, motivaciones, frustraciones y demandas de los usuarios de este segmento.<br>
+	Link UXPRESSIA para visualización de los Empathy Map: https://uxpressia.com/w/v8FzI/p/ZGwSo
+
+ - 2.3.5. As-Is Scenario Mapping<br><br>
+	En esta sección se identifican los pasos, acciones, pensamientos y sentimientos que los usuarios experimentan al llevar a cabo una tarea. A partir de este análisis, podremos plantear soluciones y mejoras en la experiencia de los usuarios.
+	#### Segmento 1: Paciente con problemas físicos
+	![AsIs Map Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/AsIs%20Maps/AsIs%20Map%20Pacientes.png)<br><br>
+	Se presenta el As-Is Scenario Map del segmento de pacientes con problemas físicos, en el cual se detalla los pasos que realiza el usuario para llevar acabo un tratamiento de terapia física.
+
+	#### Segmento 2: Fisioterapeutas
+	![AsIs Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/AsIs%20Maps/AsIs%20Map%20Fisioterapeutas.jpg)<br><br>
+	Se presenta el As-Is Scenario Map del segmento de fisioterapeutas, en el cual se detalla los pasos que realiza el usuario para lograr contactar con personas interesadas en llevar tratamientos de terapia física.<br>
+	Link Miro para visualización de los As-Is Scenario Maps: https://miro.com/app/board/uXjVPcdPQE0=/?share_link_id=440450890938
+
+## Capítulo III: Requirements Specification
+### 3.1. To-Be Scenario Mapping
+
+La herramienta denominada To-Be Scenario Mapping nos otorga la posibilidad de definir las necesidades de los usuarios. Nuestro equipo decidió emplear este artefacto con el fin de obtener una visión en primera persona de nuestro público objetico. De esta manera tendremos las soluciones necesarias en el sitio web a desarrollar. 
+#### Segmento 1: Paciente con problemas físicos
+![ToBe Map Patient](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ToBe%20Maps/ToBe%20Map%20Pacientes.png)<br><br>
+Se presenta la versión del usuario, paciente con discapacidad o problemas físicos, en la que se indican la satisfacción de las necesidades mediante de nuestro sitio web.<br>
+Link en MIRO: https://miro.com/app/board/uXjVPcP6Xug=/?share_link_id=278256680221 
+
+#### Segmento 2: Fisioterapeutas
+![ToBe Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ToBe%20Maps/ToBe%20Map%20Fisioterapeuta.png)<br><br>
+Se presenta la versión del usuario, fisioterapeuta, en la cual se ve el avance en la satisfacción de sus necesidades, gracias al afiliarse con nuestro servicio web.<br>
+Link del MIRO: https://miro.com/app/board/uXjVPcPT8FA=/?share_link_id=420219745180 
+
+### 3.2. User Stories
+
+| Epic ID   | Título                          | Descripción                                                   | 
+|------|---------------------------------|---------------------------------------------------------------|
+| EP01 | Gestión de Cuenta               | Como usuario, deseo acceder a mi cuenta para ingresar a la aplicación. |
+| EP02 | Gestión de Perfil               | Como usuario, deseo realizar cambios en mi perfil para que este se encuentre actualizado. | 
+| EP03 | Gestión de Tratamientos         | Como usuario, deseo encontrar tratamientos de fisioterapia para que rehabilitarme y mejorar mi condición física. | 
+| EP04 | Gestión de Atenciones Médicas   | Como usuario, deseo contactar con un fisioterapeuta profesional para que me realice un chequeo médico y diagnostique. | 
+| EP05 | Gestión de registro de progresos| Como usuario, deseo contar con un archivo de mi progreso durante el uso de la aplicación para conocer los avances conseguidos. | 
+| EP06 | Información presentada en el sitio web estático | Como visitante, deseo encontrar información acerca de la aplicación para conocer si esta me resultará útil. | 
+
+
+
+
+
+
+
+
+
