@@ -418,16 +418,20 @@ Este es el segmento que generará los ingresos para el equipo de DigitAlholics. 
 ### 1.3. Segmentos objetivo
 De acuerdo con el INEI (2020), en el Perú se encuentran más de 3.3 millones de personas con alguna discapacidad, de los cuales el 31.2% están ubicados en la capital del país, lo que convierte a Lima en el departamento con más personas que tienen alguna limitación física o mental en nuestra nación.  Por eso, se escogió a Lima Metropolitana como la provincia en la cual nuestra aplicación comenzará a funcionar. De la misma manera, los adultos mayores son los que forman la mayor parte de este grupo de individuos con alguna discapacidad y, además, ellos necesitan de ayuda de terceros en su día a día, ya que no pueden valerse por sí mismos. Igualmente, el último reporte del INEI también menciona que el 52.2% del sector de personas limitadas se encontraron o se encuentran con la necesidad de acudir a centros de salud, tales como el MINSA, Essalud, entre otros. Esto evidencia que hay un menester de médicos o enfermeros para apoyar al cuidado de personas con discapacidad y no es posible que solo uno de los familiares se encargue de estos, pues en palabras de Pérez (2016), el cuidado informal de personas limitadas genera problemas de salud y alteraciones emocionales en los cuidadores principales y también en los que los rodean (p. 12). En otras palabras, todos los miembros de una familia son afectados directamente cuando uno de ellos presenta algún tipo de limitación. En el siguiente gráfico se muestra un aproximado del porcentaje de aumento de personas con discapacidad según sexo y edad.
 
-![Grafica segmentos ](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TargetSegments/GraficaSegmentos.jpg)<br>
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TargetSegments/GraficaSegmentos.jpg" alt="Grafico Segmentos" width="700"><br>
 Fuente: Instituto Nacional de Estadística e Informática
 
 Tal como se puede apreciar en el gráfico, se estima que hasta el 2050 habrá un aumento en el porcentaje de adultos mayores, lo que conlleva a que crezca este sector de la población que necesita constante apoyo y atención. Por ello, la demanda de enfermeros o médicos para su supervisión también se elevará en los próximos años. Además, en los mismos datos se evidencia que disminuirá la población de entre 20 a 45 años, lo que implica que los cuidados informales de personas discapacitadas se reducirán de igual manera. Por todo esto, llegamos a la conclusión de que los segmentos objetivos de nuestra aplicación son los siguientes.<br><br>
-	•	Personas mayores que requieran supervisión, personas discapacitadas o con alguna otra dificultad para movilizarse
- 	![Personas mayores](https://www.ayudafamiliar.es/blog/wp-content/uploads/2019/11/productos-apoyo-1080x675.jpg)<br><br>
-  	•	Fisioterapeutas
-   	![Fisioterapeuta ](https://centromedicoabc.com/wp-content/uploads/2022/12/fisioterapeuta.jpg)<br><br>
+	• Personas mayores que requieran supervisión, personas discapacitadas o con alguna otra dificultad para movilizarse<br>
+ 	 <img src="https://www.ayudafamiliar.es/blog/wp-content/uploads/2019/11/productos-apoyo-1080x675.jpg" alt="Personas mayores" width="300"><br><br>
+	• Fisioterapeutas<br>
+	  <img src="https://centromedicoabc.com/wp-content/uploads/2022/12/fisioterapeuta.jpg" alt="Fisioterapeuta" width="300"><br><br>
 
 
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores
+- 2.1.1. Análisis competitivo<br>
+  ![Analisis competitivo](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/CompetitiveAnalysis/Diagrama%20sin%20título.drawio.png)<br><br>
  
 
 
