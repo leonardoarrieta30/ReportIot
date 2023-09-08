@@ -996,14 +996,20 @@ A continuación, el equipo explicará el proceso de toma de decisiones a nivel e
  	En esta parte, el equipo muestra y describe la representación de la Arquitectura de Software de la solución, utilizando el enfoque del modelo C4
 	- 4.1.3.1. Software Architecture System Landscape Diagram.<br><br>
 		Ofrece una visión integral de la interacción entre los usuarios (Patients y Physiotherapists), sistemas externos como el correo electrónico y la pasarela de pagos, y la API de Terapia dentro de la arquitectura de software. Este diagrama permite comprender cómo estos componentes se conectan y contribuyen al funcionamiento general de la aplicación o plataforma de software, facilitando la toma de decisiones y la comunicación efectiva en el desarrollo del sistema
+	<img src="https://media.discordapp.net/attachments/1016712858240823300/1149662283140710470/image.png?width=742&height=662" width="400"><br><br>
 
 	- 4.1.3.2. Software Architecture Context Level Diagrams.<br><br>
-		El diagrama de contexto C4 muestra cómo nuestro sistema interactúa con elementos externos, proporcionando una visión clara de su entorno y las conexiones fundamentales. A continuación mostramos nuestro diagram ade contexto.
+		El diagrama de contexto C4 muestra cómo nuestro sistema interactúa con elementos externos, proporcionando una visión clara de su entorno y las conexiones fundamentales. A continuación mostramos nuestro diagrama de contexto.
+	<img src="https://media.discordapp.net/attachments/1016712858240823300/1149601271758733323/image.png?width=1001&height=662" width="400"><br><br>
 
  	- 4.1.3.3. Software Architecture Container Level Diagrams.<br><br>
+		Son representaciones visuales de la arquitectura de software a nivel de contenedores, mostrando cómo los diferentes componentes y servicios se agrupan y se comunican entre sí dentro de un sistema o aplicación. Estos diagramas ofrecen una vista detallada de la organización de los contenedores de software, lo que facilita la comprensión de la estructura y las interacciones en la arquitectura general. A continuación, mostramos nuestro diagrama de contenedores:
+	<img src="https://media.discordapp.net/attachments/1016712858240823300/1149666464241045575/image.png?width=908&height=662" width="400"><br><br>
 
    	- 4.1.3.4. Software Architecture Deployment Diagrams.<br><br>
-    
+    		Son representaciones visuales que muestran cómo los componentes de software se despliegan y se ejecutan en la infraestructura de hardware o en un entorno de producción. A continuación, presentamos nuestro diagrama:
+	<img src="https://media.discordapp.net/attachments/1016712858240823300/1149668010601238579/image.png?width=880&height=662" width="400"><br><br>
+      	
 ### 4.2. Tactical-Level Domain-Driven Design 
 El equipo presenta y detalla su enfoque táctico para diseñar la solución de software en cada uno de los Bounded Contexts. En otras palabras, se explica la estrategia concreta para abordar y desarrollar la implementación técnica de cada contexto delimitado en la solución de software.
  - 4.2.1. Bounded Context: User Management Context <br><br>
@@ -1086,8 +1092,8 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 	- 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.<br>
 	En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.<br>
 		- 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.<br><br>  
-
-
+		A continuación, se presenta el diagrama de clases para este bounded Context:
+		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149682699930443796/Z4O3rMJECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAoFuBfwG1J3Oa8vtBsQAAAABJRU5ErkJggg.png?width=866&height=662" width="400"><br><br>
 		- 4.2.1.7.2. Bounded Context Database Design Diagram.<br><br> 
 		A continuación, se presenta el modelo de base de datos para este bounded Context:
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149663856218615889/ER7bKPWnyXgAAAABJRU5ErkJggg.png?width=1305&height=523" width="400"><br><br>
@@ -1161,8 +1167,9 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
  		En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
 
    		- 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams.<br><br>  
-
-
+		A continuación, se presenta el diagrama de clases para este bounded Context: 
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Clases%202.png" width="400"><br><br>
+  
 		- 4.2.2.7.2. Bounded Context Database Design Diagram.<br><br> 
 		A continuación, se presenta el modelo de base de datos para este bounded Context:
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/image.png" width="400"><br><br>
@@ -1240,7 +1247,9 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
   	- 4.2.3.7.  Bounded Context Software Architecture Code Level Diagrams. <br><br>
 		En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
 		- 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams. <br><br>
-		
+		A continuación, se presenta el diagrama de clases para este bounded Context:
+		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149683624296316938/5BM9vTdyAAAAABJRU5ErkJggg.png?width=790&height=662" width="400"><br><br>
+  
 		- 4.2.3.7.2. Bounded Context Database Design Diagram. <br><br> 
 		A continuación, se presenta el modelo de base de datos para este bounded Context: 
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149672129709756446/wPWzvIdJ50VDQAAAABJRU5ErkJggg.png?width=588&height=662" width="400"><br><br>
@@ -1281,7 +1290,9 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 	- 4.2.4.7.  Bounded Context Software Architecture Code Level Diagrams. <br><br>
 		En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
 		- 4.2.4.7.1. Bounded Context Domain Layer Class Diagrams. <br><br>
-		
+		A continuación, se presenta el diagrama de clases para este bounded Context:
+		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149683822212956160/NrmaqqGgAAAABJRU5ErkJggg.png?width=736&height=662" width="400"><br><br>
+
 		- 4.2.4.7.2. Bounded Context Database Design Diagram. <br><br> 
 		A continuación, se presenta el modelo de base de datos para este bounded Context: 
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Base4.png" width="400"><br><br>
@@ -1321,7 +1332,9 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
   	- 4.2.5.7.  Bounded Context Software Architecture Code Level Diagrams. <br><br>
 		En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
 		- 4.2.5.7.1. Bounded Context Domain Layer Class Diagrams. <br><br>
-		
+		A continuación, se presenta el diagrama de clases para este bounded Context:
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Clases%205.png" width="400"><br><br>
+  
 		- 4.2.5.7.2. Bounded Context Database Design Diagram. <br><br> 
 		A continuación, se presenta el modelo de base de datos para este bounded Context: 
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149676597620781156/PT02AAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAIEsYPjOdEICBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAh8AgOEFz6AlaFitwAAAABJRU5ErkJggg.png?width=1305&height=621" width="400"><br><br>
