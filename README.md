@@ -833,7 +833,7 @@ En esta sección se presentan las historias de usuario pertenecientes a nuestra 
 | HU45          | Obtención de datos de consultas              | Como developer, deseo poder obtener los datos de las consultas almacenadas en la base de datos para que los usuarios tengan acceso a estas desde la aplicación. | E01: Recuperación de datos correcta<br><br>CA01: Dado que existe un servicio que almacena datos de las consultas realizadas en el URL: "http://theraphy.com/user/{user_id}/analisys/add-analisys"<br>Cuando recupero correctamente los datos de la consulta<br>Entonces se envían los datos solicitados a través del protocolo HTTP<br>Y se presenta el mensaje que indica "200(OK)". <br><br> E02: Recuperación de datos incorrecta<br><br>CA02: Dado que existe un servicio que almacena datos de las consultas realizadas en el URL: "http://theraphy.com/user/{user_id}/analisys/add-analisys"<br>Cuando no encuentro los datos de acuerdo con las credenciales ingresadas por el usuario dentro de la tabla Consultas en la base de datos de Theraphy<br>Entonces se presenta el mensaje que indica "error 404(Not Found)". | EP04 |
 | HU46          | Agregación de evidencias de progreso         | Como developer, deseo poder almacenar las evidencias de progreso de los pacientes dentro de la base de datos para que los usuarios tengan acceso a estas desde la aplicación. | E01: Almacenamiento correcto del archivo<br><br>CA01: Dado que el servicio de agregación de progreso está disponible en el URL: "http://theraphy.com/user/{user_id}/evidence/add-evidence"<br>Cuando se envían los datos de la evidencia de progreso<br>Y se almacenan en una tupla<br>Entonces se añade en la tabla Progreso de la base de datos de Theraphy.<br>Y se presenta el mensaje que indica "200(OK)". <br><br> E02: Almacenamiento incorrecto del archivo<br><br>CA02: Dado que el servicio de agregación de progreso está disponible en el URL: "http://theraphy.com/user/{user_id}/evidence/add-evidence"<br>Cuando se envían los datos de la evidencia de progreso<br>Y el protocolo HTTP no logra conectarse con la base de datos<br>Entonces sale un mensaje que indica "error 404(Not Found)". | EP05 |
 
-User Stories en Pivotal Tracker:
+User Stories en Pivotal Tracker:<br><br>
 ![Pivotal UserStories](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Us%20Pivotal.png)<br><br>
 Link Pivotal Tracker:  https://www.pivotaltracker.com/n/projects/2675508
 
@@ -841,7 +841,7 @@ Link Pivotal Tracker:  https://www.pivotaltracker.com/n/projects/2675508
 La herramienta denominada Impact Mapping consiste en una forma visual de representar las metas que nos plasmamos para llegar a cada sector de nuestro público. Por esta razón, el equipo utilizó este artefacto con el fin de definir nuestro camino para alcanzar a los segmentos objetivos de Theraphy. De este modo, al final del mapa mental identificamos las acciones y funcionalidades que debemos llevar a cabo para formar el proyecto de manera eficiente.
 
 #### User: Paciente con problemas físicos
-A continuación, se presenta el Impact Map en el usuario, paciente con discapacidad u otros problemas físicos; para la cual nos basamos en las User Stories de nuestro proyecto, brindando las alternativas con las que dispone el sitio web para solucionar y satisfacer las necesidades del usuario.
+A continuación, se presenta el Impact Map en el usuario, paciente con discapacidad u otros problemas físicos; para la cual nos basamos en las User Stories de nuestro proyecto, brindando las alternativas con las que dispone el sitio web para solucionar y satisfacer las necesidades del usuario.<br>
 ![ImpactMap Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ImpactMaps/ImpacMap%20Patient.png)
 ![ImpactMap Paciente2](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ImpactMaps/ImpacMap%20Patient2.png)<br><br>
 
@@ -901,4 +901,9 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 | 44    | HU34         | Obtención de datos personales del usuario | Como developer, deseo poder obtener los datos personales del usuario desde la base de datos para presentar en su perfil. | 2            |
 | 45    | HU04         | Selección de foto de perfil              | Como usuario, deseo seleccionar una foto de perfil para que las personas puedan reconocerme dentro de la aplicación. | 2            |
 | 46    | HU35         | Almacenamiento de la foto de perfil      | Como developer, deseo poder almacenar el archivo de la foto de perfil del usuario en la base de datos para presentarla en su perfil. | 2            |
+
+
+Imagen de Product Backlog en Pivotal Tracker:<br><br>
+![Prodcut Backlog](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Product%20Bakclog.png)<br><br> 
+Link del Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2675508 
 
