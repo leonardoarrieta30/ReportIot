@@ -232,157 +232,157 @@ Este segmento podrá usar las aplicaciones de forma gratuita. La cita médica in
 Este es el segmento que generará los ingresos para el equipo de DigitAlholics. Puesto que, la solución propuesto consta con dos planes de pago para que los especialistas puedan acceder a las caracteristicas con las que cuentan nuestros sistemas. El primer plan, “Standard”, permitirá al doctor fisioterapeuta atender hasta a un máximo de 10 pacientes, siendo capaz de agendar citas presenciales, virtuales y brindar tratamientos asíncronos a los pacientes. Por otro lado, el plan “Premium” permitirá realizar las mismas acciones con cualquier número de pacientes; es decir, una cantidad ilimitada. Ambas suscripciones permitirán un monitoreo constante gracias al producto “IoTheraphy”, el cual tendrá un costo único de S/. 2 500. Finalmente, el precio del primer plan es S/. 130.00 mensual y S/. 1300.00 anual. Del segundo, el precio aumenta a S/. 350.00 al mes y S/. 3 500.00 al año.
 
 - 1.2.1 Antecedentes y problemática
-Para este segmento utilizaremos la tecnica de las 5W y 2H
-
-#### Descripción de la problemática 
-Este software se enfoca en el sector de salud, ya que se ha evidenciado que hay leve incremento en pacientes insatisfechos con las citas brindadas por las clínicas.  Es por esta razón que “Theraphy” busca cubrir las necesidades de la comunicación, seguridad y eficacia a la mayor cantidad de personas posibles en su domicilio. 
-Antecedentes 
-Como se mencionó anteriormente, nuestro producto software “Theraphy” tiene la capacidad de contratar profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o de otra índole y además dar seguimiento continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue a la frecuencia de visita elegida por el contratante. Es por ello por lo que, teniendo en cuenta el funcionamiento de nuestro producto, realizamos la búsqueda de posibles competidores, obteniendo como resultado dos productos software: 
-
-##### MedicApp: 
-Es una aplicación en la cual una persona puede agendar por medio de llamada o WhatsApp, una cita a domicilio de Médico o Enfermero. Cuenta con un horario limitado de lunes a sábados de 8 am a 8 pm. Asimismo, ofrece tele consultas y pruebas de descarte de la COVID-19. Cuenta con una alianza con una institución dedicada al transporte de pacientes con situaciones graves, ambulancias. 
-
-Sin embargo, la principal diferencia que separa a Theraphy de MedicApp es que, en nuestra aplicación, es posible contactar con un doctor específico que le brinde confianza al usuario. Por otro lado, en la aplicación MedicApp, los doctores son brindados según la disponibilidad que tiene la aplicación y el usuario no interactúa de manera constante en el proceso de selección. Asimismo, no mantienen, en la aplicación, un registro virtual de todas las citas que ha tenido el paciente ni de las recomendaciones brindadas. 
-
-##### MediQuo: 
-Es una aplicación donde se puede realizar consultas, gestionar citas mediante el chat que está disponible en su web, además que tiene seguimiento registrado en la aplicación móvil. 
-
-Sin embargo, una de las diferencias que existe entre Theraphy y MediQuo es que, mientras en MediQuo solo se hacen consultas digitales, en Theraphy se tiene contacto directo y presencial con el personal de salud. Además, al contrario que la aplicación MediQuo, Theraphy puede generar un historial médico virtual que varía dependiendo de cada contratante. 
-  
-#### Herramienta 5W y 2H 
-
-##### What - ¿Cuál es el problema? 
-
-El problema identificado es la cantidad exorbitante de personas de edad avanzada y/o que sufren de limitaciones físicas o de otra índole. Es decir, que no pueden mantener un cuidado autónomo y requieren de la asistencia de otro individuo para mantener una salud estable. 
-
-##### When - ¿Cuándo sucede el problema? 
-
-Cuando es necesaria la supervisión o tratamiento de un médico para individuos con capacidades limitadas, o simplemente cuando se requiere de personas extras para el cuidado de los pacientes y los familiares que carecen de tiempo o son incapaces de atenderlos sin ayuda. 
-
-##### Where - ¿Dónde surge el problema? 
-
-El problema surge en los distintos hogares de la capital, pues día a día las personas deben salir a ejercer sus obligaciones laborales y no cuentan con el tiempo suficiente y la ayuda necesaria para mantener la calidad de vida y cuidado de sus familiares con limitaciones físicas o mentales. 
-
-##### Who - ¿Quiénes son afectados por el problema? 
-
-Los principales afectados son las personas de la tercera edad y aquellas que presentan enfermedades que precisan de atención inmediata. 
-
-##### Why - ¿Cuál es la causa del problema? 
-
-La causa del problema es principalmente la falta de tiempo por parte de los familiares de personas de edad avanzada y/o con discapacidades físicas o de otra índole para cuidarlos y mantenerlos con un estado de salud estable. 
-
-##### How - ¿Cómo se llevan a cabo los hechos? 
-
-Cuando una familia cuenta con un integrante que requiere de supervisión constante, los demás miembros tienen que brindar gran parte de su tiempo para su cuidado. Además, el encontrar personas de confianza y que estén capacitadas para la atención del individuo es complicado, lo cual solo genera que la situación sea más difícil, y esto empeora si el paciente requiere de uso de medicina o dispositivos médicos. Por eso, es necesaria una forma fácil y sencilla de contactar con la ayuda necesaria para la atención de los familiares vulnerables. 
-
-##### How much - ¿Cuál es la magnitud del problema? 
-
-Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros. 
+	Para este segmento utilizaremos la tecnica de las 5W y 2H
+	
+	#### Descripción de la problemática 
+	Este software se enfoca en el sector de salud, ya que se ha evidenciado que hay leve incremento en pacientes insatisfechos con las citas brindadas por las clínicas.  Es por esta razón que “Theraphy” busca cubrir las necesidades de la comunicación, seguridad y eficacia a la mayor cantidad de personas posibles en su domicilio. 
+	Antecedentes 
+	Como se mencionó anteriormente, nuestro producto software “Theraphy” tiene la capacidad de contratar profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o de otra índole y además dar seguimiento continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue a la frecuencia de visita elegida por el contratante. Es por ello por lo que, teniendo en cuenta el funcionamiento de nuestro producto, realizamos la búsqueda de posibles competidores, obteniendo como resultado dos productos software: 
+	
+	##### MedicApp: 
+	Es una aplicación en la cual una persona puede agendar por medio de llamada o WhatsApp, una cita a domicilio de Médico o Enfermero. Cuenta con un horario limitado de lunes a sábados de 8 am a 8 pm. Asimismo, ofrece tele consultas y pruebas de descarte de la COVID-19. Cuenta con una alianza con una institución dedicada al transporte de pacientes con situaciones graves, ambulancias. 
+	
+	Sin embargo, la principal diferencia que separa a Theraphy de MedicApp es que, en nuestra aplicación, es posible contactar con un doctor específico que le brinde confianza al usuario. Por otro lado, en la aplicación MedicApp, los doctores son brindados según la disponibilidad que tiene la aplicación y el usuario no interactúa de manera constante en el proceso de selección. Asimismo, no mantienen, en la aplicación, un registro virtual de todas las citas que ha tenido el paciente ni de las recomendaciones brindadas. 
+	
+	##### MediQuo: 
+	Es una aplicación donde se puede realizar consultas, gestionar citas mediante el chat que está disponible en su web, además que tiene seguimiento registrado en la aplicación móvil. 
+	
+	Sin embargo, una de las diferencias que existe entre Theraphy y MediQuo es que, mientras en MediQuo solo se hacen consultas digitales, en Theraphy se tiene contacto directo y presencial con el personal de salud. Además, al contrario que la aplicación MediQuo, Theraphy puede generar un historial médico virtual que varía dependiendo de cada contratante. 
+	  
+	#### Herramienta 5W y 2H 
+	
+	##### What - ¿Cuál es el problema? 
+	
+	El problema identificado es la cantidad exorbitante de personas de edad avanzada y/o que sufren de limitaciones físicas o de otra índole. Es decir, que no pueden mantener un cuidado autónomo y requieren de la asistencia de otro individuo para mantener una salud estable. 
+	
+	##### When - ¿Cuándo sucede el problema? 
+	
+	Cuando es necesaria la supervisión o tratamiento de un médico para individuos con capacidades limitadas, o simplemente cuando se requiere de personas extras para el cuidado de los pacientes y los familiares que carecen de tiempo o son incapaces de atenderlos sin ayuda. 
+	
+	##### Where - ¿Dónde surge el problema? 
+	
+	El problema surge en los distintos hogares de la capital, pues día a día las personas deben salir a ejercer sus obligaciones laborales y no cuentan con el tiempo suficiente y la ayuda necesaria para mantener la calidad de vida y cuidado de sus familiares con limitaciones físicas o mentales. 
+	
+	##### Who - ¿Quiénes son afectados por el problema? 
+	
+	Los principales afectados son las personas de la tercera edad y aquellas que presentan enfermedades que precisan de atención inmediata. 
+	
+	##### Why - ¿Cuál es la causa del problema? 
+	
+	La causa del problema es principalmente la falta de tiempo por parte de los familiares de personas de edad avanzada y/o con discapacidades físicas o de otra índole para cuidarlos y mantenerlos con un estado de salud estable. 
+	
+	##### How - ¿Cómo se llevan a cabo los hechos? 
+	
+	Cuando una familia cuenta con un integrante que requiere de supervisión constante, los demás miembros tienen que brindar gran parte de su tiempo para su cuidado. Además, el encontrar personas de confianza y que estén capacitadas para la atención del individuo es complicado, lo cual solo genera que la situación sea más difícil, y esto empeora si el paciente requiere de uso de medicina o dispositivos médicos. Por eso, es necesaria una forma fácil y sencilla de contactar con la ayuda necesaria para la atención de los familiares vulnerables. 
+	
+	##### How much - ¿Cuál es la magnitud del problema? 
+	
+	Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros. 
 
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
   
-#### Problem Statement 1
-Nuestro entorno evidencia que las personas con dificultades motoras se ven limitadas a tener una recuperación exitosa al no poder asistir puntualmente a todas las citas del especialista. 
-Hemos observado que un factor crítico que afecta a los pacientes que reciben terapia es el desconocimiento sobre qué y cómo deben realizar los ejercicios del tratamiento cuando no pueden acudir con el especialista, lo que afecta su pronta recuperación. 
-**¿Cómo hacer que los pacientes sepan qué y cómo hacer los ejercicios ideales sin acudir al fisioterapeuta y no afectar el tiempo de su recuperación?**
-
-#### Problem Statement 2
-Nuestro entorno evidencia que los fisioterapeutas cuentan con una agenda recargada la mayor parte de su día, por lo que en muchas ocasiones no se abastecen para cumplir con las atenciones personalizadas a domicilio de cada paciente. Por consiguiente, dichos pacientes dejan de requerir de sus servicios. 
-Hemos observado que un factor crítico que afecta a los fisioterapeutas es el incumplimiento con las atenciones a domicilio de sus pacientes que a su vez altera la evolución del tratamiento. Por lo que, han dejado de ser contactados por los mismos. 
-**¿Cómo hacer qué los fisioterapeutas cumplan con las citas pactadas para no afectar la evolución del tratamiento y así evitar la pérdida de pacientes?** 
-
-#### Problem Statement 3
-Nuestro entorno evidencia que los pacientes conocen el reporte de avance de su recuperación cuando reciben la atención. No obstante, cuando algún familiar o el mismo paciente desea acceder a ella le resulta complicado. 
-Hemos observado que un factor crítico que afecta a los pacientes es la dificultad para acceder al reporte de avance de su recuperación las 24 horas del día, ya que debe acudir al especialista o contactarse con el mismo. Lo que le genera molestia y pérdida de tiempo.  
-**¿Cómo hacer que los clientes pacientes o empresas accedan fácilmente al reporte de su avance de recuperación sin acudir al especialista o contactarse con este, para evitar su incomodidad y de su tiempo?**
+	#### Problem Statement 1
+	Nuestro entorno evidencia que las personas con dificultades motoras se ven limitadas a tener una recuperación exitosa al no poder asistir puntualmente a todas las citas del especialista. 
+	Hemos observado que un factor crítico que afecta a los pacientes que reciben terapia es el desconocimiento sobre qué y cómo deben realizar los ejercicios del tratamiento cuando no pueden acudir con el especialista, lo que afecta su pronta recuperación. 
+	**¿Cómo hacer que los pacientes sepan qué y cómo hacer los ejercicios ideales sin acudir al fisioterapeuta y no afectar el tiempo de su recuperación?**
+	
+	#### Problem Statement 2
+	Nuestro entorno evidencia que los fisioterapeutas cuentan con una agenda recargada la mayor parte de su día, por lo que en muchas ocasiones no se abastecen para cumplir con las atenciones personalizadas a domicilio de cada paciente. Por consiguiente, dichos pacientes dejan de requerir de sus servicios. 
+	Hemos observado que un factor crítico que afecta a los fisioterapeutas es el incumplimiento con las atenciones a domicilio de sus pacientes que a su vez altera la evolución del tratamiento. Por lo que, han dejado de ser contactados por los mismos. 
+	**¿Cómo hacer qué los fisioterapeutas cumplan con las citas pactadas para no afectar la evolución del tratamiento y así evitar la pérdida de pacientes?** 
+	
+	#### Problem Statement 3
+	Nuestro entorno evidencia que los pacientes conocen el reporte de avance de su recuperación cuando reciben la atención. No obstante, cuando algún familiar o el mismo paciente desea acceder a ella le resulta complicado. 
+	Hemos observado que un factor crítico que afecta a los pacientes es la dificultad para acceder al reporte de avance de su recuperación las 24 horas del día, ya que debe acudir al especialista o contactarse con el mismo. Lo que le genera molestia y pérdida de tiempo.  
+	**¿Cómo hacer que los clientes pacientes o empresas accedan fácilmente al reporte de su avance de recuperación sin acudir al especialista o contactarse con este, para evitar su incomodidad y de su tiempo?**
 
   - 1.2.2.2. Lean UX Assumptions.
 
- #### Business Outcomes  
-
-•	Vistas frecuentes por parte de los pacientes a los videos de rutinas elaborados por los fisioterapeutas.
-
-•	10% de reserva de citas médicas inicialmente.
-
-•	Visualización constante de las citas programadas para cada fisioterapeuta.
-  
-•	Obtener ganancias el 10% cada mes gracias al beneficio que reciben los fisioterapeutas y pacientes con dificultad motora quiénes tienen la oportunidad de conseguir mayor alcance de sus servicios y lograr una recuperación efectiva, respectivamente. 
-
-#### Users  
-
-•	Pacientes mayores de edad con dificultades motoras que reciben terapias. 
-
-•	Fisioterapeutas profesionales. 
- 
-#### User Outcomes & Benefits
- 
-##### Pacientes:
-
-•	Lograr una recuperación exitosa, debido a la efectividad del tratamiento remoto con los videos de rutinas realizados por los fisioterapeutas. 
- 
-•	Ahorrar tiempo y dinero para asistir al centro de rehabilitación o consultorio donde recibe la terapia. 
- 
-•	Acceder a su reporte de tratamiento las 24 horas sin necesidad de contactarse con el fisioterapeuta. 
- 
-##### Fisioterapeutas: 
-
-•	Brindar atención remota a sus pacientes a través de videos explicativos que tienen efectividad significativa para la recuperación de sus pacientes. 
-
-•	Organizar y tener una visualización de todas las citas pendientes para prepararse con tiempo a próximas terapias de sus pacientes. 
-
-•	Lograr que sus pacientes recomienden sus servicios a través de sus comentarios para tener mayor alcance. 
-
-##### Features: 
-
-•	Rutinas grabadas por los fisioterapeutas para el tratamiento que requiere el paciente con dificultad motora. 
-
-•	Información del paciente y diagnóstico del avance de su tratamiento en cada atención disponible las 24 horas. 
-
-•	Sección de reseña y calificación de los fisioterapeutas.  
-
-•	Calendario de las citas pendientes para los fisioterapeutas. 
-
-#### SUPOSICIONES DE NEGOCIO
-
-1.	Creo que mis usuarios necesitan, conocer qué ejercicios de rutina son las ideales para su tratamiento y cómo deben hacerlo para lograr una recuperación efectiva sin necesidad de acudir presencialmente con el especialista. Respecto al fisioterapeuta necesita cumplir con todas las atenciones acordadas con los pacientes. 
-
-2.	Estas necesidades se pueden resolver con una aplicación que permita a los fisioterapeutas subir videos de rutinas grabadas donde expliquen detalladamente a los pacientes cómo deben realizarlo para que estos tengan un tratamiento remoto igual de efectivo. Además, que los pacientes puedan acceder a su diagnóstico. 
-
-3.	Mis clientes iniciales son (o serán) los pacientes con dificultades motoras que tienen complicaciones para acudir presencialmente a un fisioterapeuta con el fin de recibir su tratamiento. Asimismo, los clientes serán los profesionales fisioterapeutas. 
-
-4.	El valor #1 que un cliente quiere de mi servicio es para los pacientes efectividad de las rutinas grabadas en la evolución de su tratamiento. En cuanto a los fisioterapeutas, buscan cumplir con las atenciones pactadas, de manera que los pacientes no dejen de contar con sus servicios. 
-
-5.	El cliente también puede obtener beneficios adicionales, respecto a los pacientes con el acceso a su diagnóstico del tratamiento que recibe y cómo va evolucionando. Así como de tiempo, ya que no es necesario ir presencialmente al fisioterapeuta para recibir la terapia. Respecto al fisioterapeuta, obtiene beneficio económico, ya que los pacientes no dejarán de contratar sus servicios y podrán recomendarlo con otros pacientes. Asimismo, de tiempo, puesto que dejará de preocuparse por realizar una atención en un día con la agenda recargada. 
-
-6.	Voy a adquirir la mayoría de mis clientes a través de publicidad en centros de rehabilitación para personas con dificultades motoras. También, a través de las redes sociales con testimonios de pacientes y fisioterapeutas que hacen uso de la aplicación. 
-
-7.	Haremos dinero a través del 10% mensual de la inscripción de cada fisioterapeuta que usa la aplicación. Así como del valor de 1,69 soles por plan premium para acceder a un reporte más detallado de la evolución del tratamiento para los pacientes. 
-
-8.	Mi competencia principal en el mercado serán las aplicaciones enfocadas en la salud y que brindan servicios similares. 
-
-9.	Los venceremos debido a la propuesta de valor de nuestra aplicación la cual es video de rutina personalizada para cada paciente. De modo que, la terapia que reciben presencialmente con la atención remota sea igual de efectiva. Por el lado de los fisioterapeutas, al grabar videos se ahorrarán tiempo para no saturarse en días con agendas recargadas. 
-
-10.	Mi mayor riesgo de producto son las fallas en la aplicación por errores de programación que no permitan el acceso al reporte de evolución del tratamiento de los pacientes durante las 24 horas. Asimismo, la invasión a la seguridad o ataques cibernéticos que violen la privacidad de los pacientes y fisioterapeutas. 
-
-11.	Resolveremos esto a través de una revisión y actualización con mejoras o funciones adicionales de la aplicación para brindar mayor eficacia tanto para pacientes y fisioterapeutas. 
-
-#### SUPOSICIONES DE USUARIO
-
-1.	¿Quién es el usuario? 
-Pacientes con dificultades motoras y que estén dispuestos a recibir una terapia remota a través de videos grabados por los especialistas. Asimismo, estos usuarios deben estar familiarizados con el uso de dispositivos para una mayor facilidad al momento de hacer uso de la aplicación. Nuestros usuarios también son los fisioterapeutas que requieren de un medio para brindar atención de forma no presencial para evitar la pérdida de pacientes. 
-
-2.	¿Dónde encaja nuestro producto en su trabajo o vida?  
-En cuanto a los pacientes encaja en su vida en el área de la salud, ya que requieren de dichas terapias para volver a recuperar su actividad motora. En el caso de los fisioterapeutas encaja en su trabajo quiénes se encargan de brindar atención por medio de rutinas o terapias. 
-
-3.	¿Cómo y cuándo es usado nuestro producto? 
-Los pacientes usarán el producto cuando les corresponda realizar una rutina de acuerdo con su tratamiento. Para ello utilizarán nuestra aplicación a través de un dispositivo. En cuanto a los especialistas lo utilizarán al momento de desempeñar su trabajo brindando atención a los pacientes, para ello grabarán videos de rutinas con explicación para posteriormente subirlos a la aplicación. 
-
-4.	¿Qué problema tendría nuestro producto y cómo se pueden resolver? 
-Nuestro producto podría tener problemas respecto al diseño y desarrollo. En el caso del diseño, este puede no cumplir con los patrones o heurísticas. Como consecuencia en lugar de ayudar al paciente este se vería confundido y desinteresado en seguir usando la aplicación. Respecto al desarrollo puede que nuestro producto no realice las funciones correctamente o las funciones sean diferentes a la orientación visual de la aplicación. De modo que, genera una desilusión y frustración en nuestros usuarios tanto en los pacientes como en los fisioterapeutas. Este problema se puede solucionar siguiendo y verificando el cumplimiento de los patrones y heurísticas para el diseño. Así como, siguiendo las convenciones, principios y patrones en la programación. 
-
-5.	¿Qué características son importantes? 
-Entre las características más importantes de nuestra aplicación se encuentran: visualización de videos de rutinas grabados por fisioterapeutas de acuerdo con el tratamiento del paciente. Asimismo, es importante que los pacientes accedan al reporte de su evolución en cualquier momento. Por último, debe ser seguro para proteger los datos de los fisioterapeutas y pacientes evitando invadir su privacidad. 
-
-6.	¿Cómo debe verse nuestro servicio y cómo debe comportarse?  
-Nuestro producto debe verse amigable, funcional y confiable de modo que no resulte tedioso para el usuario en su primera interacción. Asimismo, se deben elegir los colores de acuerdo con la psicología de los pacientes para que genere un impacto positivo en ellos.
+	 #### Business Outcomes  
+	
+	•	Vistas frecuentes por parte de los pacientes a los videos de rutinas elaborados por los fisioterapeutas.
+	
+	•	10% de reserva de citas médicas inicialmente.
+	
+	•	Visualización constante de las citas programadas para cada fisioterapeuta.
+	  
+	•	Obtener ganancias el 10% cada mes gracias al beneficio que reciben los fisioterapeutas y pacientes con dificultad motora quiénes tienen la oportunidad de conseguir mayor alcance de sus servicios y lograr una recuperación efectiva, respectivamente. 
+	
+	#### Users  
+	
+	•	Pacientes mayores de edad con dificultades motoras que reciben terapias. 
+	
+	•	Fisioterapeutas profesionales. 
+	 
+	#### User Outcomes & Benefits
+	 
+	##### Pacientes:
+	
+	•	Lograr una recuperación exitosa, debido a la efectividad del tratamiento remoto con los videos de rutinas realizados por los fisioterapeutas. 
+	 
+	•	Ahorrar tiempo y dinero para asistir al centro de rehabilitación o consultorio donde recibe la terapia. 
+	 
+	•	Acceder a su reporte de tratamiento las 24 horas sin necesidad de contactarse con el fisioterapeuta. 
+	 
+	##### Fisioterapeutas: 
+	
+	•	Brindar atención remota a sus pacientes a través de videos explicativos que tienen efectividad significativa para la recuperación de sus pacientes. 
+	
+	•	Organizar y tener una visualización de todas las citas pendientes para prepararse con tiempo a próximas terapias de sus pacientes. 
+	
+	•	Lograr que sus pacientes recomienden sus servicios a través de sus comentarios para tener mayor alcance. 
+	
+	##### Features: 
+	
+	•	Rutinas grabadas por los fisioterapeutas para el tratamiento que requiere el paciente con dificultad motora. 
+	
+	•	Información del paciente y diagnóstico del avance de su tratamiento en cada atención disponible las 24 horas. 
+	
+	•	Sección de reseña y calificación de los fisioterapeutas.  
+	
+	•	Calendario de las citas pendientes para los fisioterapeutas. 
+	
+	#### SUPOSICIONES DE NEGOCIO
+	
+	1.	Creo que mis usuarios necesitan, conocer qué ejercicios de rutina son las ideales para su tratamiento y cómo deben hacerlo para lograr una recuperación efectiva sin necesidad de acudir presencialmente con el especialista. Respecto al fisioterapeuta necesita cumplir con todas las atenciones acordadas con los pacientes. 
+	
+	2.	Estas necesidades se pueden resolver con una aplicación que permita a los fisioterapeutas subir videos de rutinas grabadas donde expliquen detalladamente a los pacientes cómo deben realizarlo para que estos tengan un tratamiento remoto igual de efectivo. Además, que los pacientes puedan acceder a su diagnóstico. 
+	
+	3.	Mis clientes iniciales son (o serán) los pacientes con dificultades motoras que tienen complicaciones para acudir presencialmente a un fisioterapeuta con el fin de recibir su tratamiento. Asimismo, los clientes serán los profesionales fisioterapeutas. 
+	
+	4.	El valor #1 que un cliente quiere de mi servicio es para los pacientes efectividad de las rutinas grabadas en la evolución de su tratamiento. En cuanto a los fisioterapeutas, buscan cumplir con las atenciones pactadas, de manera que los pacientes no dejen de contar con sus servicios. 
+	
+	5.	El cliente también puede obtener beneficios adicionales, respecto a los pacientes con el acceso a su diagnóstico del tratamiento que recibe y cómo va evolucionando. Así como de tiempo, ya que no es necesario ir presencialmente al fisioterapeuta para recibir la terapia. Respecto al fisioterapeuta, obtiene beneficio económico, ya que los pacientes no dejarán de contratar sus servicios y podrán recomendarlo con otros pacientes. Asimismo, de tiempo, puesto que dejará de preocuparse por realizar una atención en un día con la agenda recargada. 
+	
+	6.	Voy a adquirir la mayoría de mis clientes a través de publicidad en centros de rehabilitación para personas con dificultades motoras. También, a través de las redes sociales con testimonios de pacientes y fisioterapeutas que hacen uso de la aplicación. 
+	
+	7.	Haremos dinero a través del 10% mensual de la inscripción de cada fisioterapeuta que usa la aplicación. Así como del valor de 1,69 soles por plan premium para acceder a un reporte más detallado de la evolución del tratamiento para los pacientes. 
+	
+	8.	Mi competencia principal en el mercado serán las aplicaciones enfocadas en la salud y que brindan servicios similares. 
+	
+	9.	Los venceremos debido a la propuesta de valor de nuestra aplicación la cual es video de rutina personalizada para cada paciente. De modo que, la terapia que reciben presencialmente con la atención remota sea igual de efectiva. Por el lado de los fisioterapeutas, al grabar videos se ahorrarán tiempo para no saturarse en días con agendas recargadas. 
+	
+	10.	Mi mayor riesgo de producto son las fallas en la aplicación por errores de programación que no permitan el acceso al reporte de evolución del tratamiento de los pacientes durante las 24 horas. Asimismo, la invasión a la seguridad o ataques cibernéticos que violen la privacidad de los pacientes y fisioterapeutas. 
+	
+	11.	Resolveremos esto a través de una revisión y actualización con mejoras o funciones adicionales de la aplicación para brindar mayor eficacia tanto para pacientes y fisioterapeutas. 
+	
+	#### SUPOSICIONES DE USUARIO
+	
+	1.	¿Quién es el usuario? 
+	Pacientes con dificultades motoras y que estén dispuestos a recibir una terapia remota a través de videos grabados por los especialistas. Asimismo, estos usuarios deben estar familiarizados con el uso de dispositivos para una mayor facilidad al momento de hacer uso de la aplicación. Nuestros usuarios también son los fisioterapeutas que requieren de un medio para brindar atención de forma no presencial para evitar la pérdida de pacientes. 
+	
+	2.	¿Dónde encaja nuestro producto en su trabajo o vida?  
+	En cuanto a los pacientes encaja en su vida en el área de la salud, ya que requieren de dichas terapias para volver a recuperar su actividad motora. En el caso de los fisioterapeutas encaja en su trabajo quiénes se encargan de brindar atención por medio de rutinas o terapias. 
+	
+	3.	¿Cómo y cuándo es usado nuestro producto? 
+	Los pacientes usarán el producto cuando les corresponda realizar una rutina de acuerdo con su tratamiento. Para ello utilizarán nuestra aplicación a través de un dispositivo. En cuanto a los especialistas lo utilizarán al momento de desempeñar su trabajo brindando atención a los pacientes, para ello grabarán videos de rutinas con explicación para posteriormente subirlos a la aplicación. 
+	
+	4.	¿Qué problema tendría nuestro producto y cómo se pueden resolver? 
+	Nuestro producto podría tener problemas respecto al diseño y desarrollo. En el caso del diseño, este puede no cumplir con los patrones o heurísticas. Como consecuencia en lugar de ayudar al paciente este se vería confundido y desinteresado en seguir usando la aplicación. Respecto al desarrollo puede que nuestro producto no realice las funciones correctamente o las funciones sean diferentes a la orientación visual de la aplicación. De modo que, genera una desilusión y frustración en nuestros usuarios tanto en los pacientes como en los fisioterapeutas. Este problema se puede solucionar siguiendo y verificando el cumplimiento de los patrones y heurísticas para el diseño. Así como, siguiendo las convenciones, principios y patrones en la programación. 
+	
+	5.	¿Qué características son importantes? 
+	Entre las características más importantes de nuestra aplicación se encuentran: visualización de videos de rutinas grabados por fisioterapeutas de acuerdo con el tratamiento del paciente. Asimismo, es importante que los pacientes accedan al reporte de su evolución en cualquier momento. Por último, debe ser seguro para proteger los datos de los fisioterapeutas y pacientes evitando invadir su privacidad. 
+	
+	6.	¿Cómo debe verse nuestro servicio y cómo debe comportarse?  
+	Nuestro producto debe verse amigable, funcional y confiable de modo que no resulte tedioso para el usuario en su primera interacción. Asimismo, se deben elegir los colores de acuerdo con la psicología de los pacientes para que genere un impacto positivo en ellos.
