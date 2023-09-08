@@ -945,3 +945,25 @@ A continuación, el equipo explicará el proceso de toma de decisiones a nivel e
 	  			**Payment Management Context**<br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(3).jpg" width="600"><br><br>
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2010.jpg" width="600"><br><br>
+   
+   	- 4.1.1.2. Domain Message Flows Modeling<br><br>
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(5).jpg" width="600"><br><br>
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(6).jpg" width="600"><br><br>
+  		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(7).jpg" width="600"><br><br>
+    		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(8).jpg" width="600"><br><br>
+      		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(9).jpg" width="600"><br><br>
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(10).jpg" width="600"><br><br>
+  		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(11).jpg" width="600"><br><br>
+    		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(12).jpg" width="600"><br><br>
+
+      	- 4.1.1.3. Bounded Context Canvases.<br><br>
+       		A continuación presentamos los Bounded Context Canvas que nos permiten conocer a mayor detalle cómo se relacionan los bounded context.<br>
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2012.jpg" width="600"><br><br>
+  		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2012%20(1).jpg" width="600"><br><br>
+    		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2012%20(2).jpg" width="600"><br><br>
+      		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2012%20(3).jpg" width="600"><br><br>
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2012%20(4).jpg" width="600"><br><br>
+ 
+ - 4.1.2. Context Mapping.<br><br>
+	- **User Management Context - Health Records and Expertise Management Context:**<br> 
+	**Conformist:** La relación entre los contextos es "conformist" (conformista) porque los conceptos "patient" y "physiotherapist" se ajustan o conforman a las definiciones de usuario que existen en el contexto "users". En otras palabras, comparten una similitud en su modelo de usuario, y los perfiles de "paciente" y "fisioterapeuta" son variaciones o extensiones de la entidad de usuario central en el contexto "users". <br> Esta relación "conformist" sugiere que el contexto "profile" se basa en el modelo de usuario definido en el contexto "users". Los perfiles de pacientes y fisioterapeutas pueden incluir atributos y comportamientos adicionales específicos de su función, pero heredan la base común de la entidad de usuario del contexto "users". Esto puede simplificar la gestión de usuarios y la consistencia de datos en el sistema al reutilizar la definición central de usuario en lugar de duplicarla en varios contextos.
