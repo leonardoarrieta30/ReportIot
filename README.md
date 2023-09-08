@@ -27,7 +27,7 @@ Relación de integrantes:
  - Arrieta Huaman, Leonardo Santos   u202018777
  - Del Carpio Lopez, José Fabricio Jared   u202020239
  - Ahuanari Murayari, Maria Alexandra   u20201a836
-- Franchesco Alexis Soto Morales   u202020341
+ - Gómez De la Cruz, Cristhian Gabriel   u202020341
 
 Mes y año: 
 Agosto 2023
@@ -39,10 +39,12 @@ Ciclo:
 
 | Version | Fecha| Autor | Descripción de la Modificación |
 |-----------|-----------|-----------|-----------|
-| 1.0 |  | | |
-| 1.1 | | | |
-| 1.2 | | | |
-| 1.3 | | | |
+| 1.0 | 30/08/2023 | Del Carpio, Jose<br>Pineda, Luis<br>Gomez, Cristhian<br>Ahuanari, María<br>Arrieta, Leonardo| Creación de la primera versión del trabajo final del curso de Desarrollo de Soluciones IOT  |
+| 1.1 | 1/09/2023 | Del Carpio, Jose<br>Pineda, Luis | Registro de la description del StartUp Profile y Product Profile |
+| 1.2 | 3/09/2023 | Cristhian<br>Ahuanari, María | Registro de los competidores, entrevistas a los segmentos y needfinding |
+| 1.3 | 4/08/2023 | Del Carpio, Jose<br>Pineda, Luis<br>Gomez, Cristhian<br>Ahuanari, María<br>Arrieta, Leonardo| Revision y actualización del Product Bakclog |
+| 1.4 | 5/09/2023 | Arrieta, Leonardo | Registro del To Be Scenario Map e Impact Map |
+| 1.5 | 7/08/2023 | Del Carpio, Jose<br>Pineda, Luis<br>Gomez, Cristhian<br>Ahuanari, María<br>Arrieta, Leonardo| Registro del Capítulo IV: Solution Software Design |
 
 ## Project Report Collaboration Insights
 
