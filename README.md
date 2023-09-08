@@ -518,7 +518,61 @@ Tal como se puede apreciar en el gráfico, se estima que hasta el 2050 habrá un
 En este punto presentaremos los resultados de las entrevistas realizadas a los usuarios objetivos
  - 2.2.1. Diseño de entrevistas<br><br>
 	En esta sección, mostraremos las preguntas que hemos generado para realizar las entrevistas a los dos tipos de usuarios objetivos. Cabe destacar, que las preguntas realizadas son de tipo abierto, con el objetivo de recolectar información relevante que nos ayude a tener una idea más precisa de cómo solucionar problemas de nuestros usuarios objetivos.
-		
 	
+	#### Preguntas principales y complementarias
+
+	1. **Personas con dificultad para movilizarse o sus familiares:**
 	
+	   - **Preguntas Principales:**
+	     - ¿Cuál es la mayor dificultad que ha identificado en el tiempo que lleva con su condición?
+	     - ¿Cuáles son las dificultades que ha encontrado en la atención brindada por clínicas y hospitales a pacientes en su condición? En caso la respuesta sea sí o no: ¿por qué?
+	     - ¿Considera que es necesaria la ayuda de un especialista cuando realiza su rehabilitación? ¿Por qué?
+	     - ¿Con qué frecuencia utiliza sus dispositivos en beneficio de su salud? ¿Y qué marcas tecnológicas prefiere?
+	     - Cuando acude a un terapeuta, ¿qué es lo que más valora de la atención que recibe?
+	     - ¿Qué tan seguido busca en internet acerca de tratamientos para su condición? ¿Considera que la información encontrada es confiable y útil?
+	     - ¿Qué tan importante es para usted el uso de recursos visuales en los tratamientos? ¿Por qué?
+	     - ¿Qué tan fácil consideraría conseguir este tipo de atención?
+	     - Del 1 al 10, ¿qué tan efectiva considera que es la terapia física? ¿Por qué?
+	     - ¿Qué dispositivos médicos ha empleado en sus anteriores tratamientos?
+	     - ¿De qué marcas médicas ha escuchado o cuáles han sido de las que mayormente consume en su constante mejora?
+	     - ¿Ha recibido tratamiento desde su domicilio? ¿Cómo fue su experiencia?
+	     - ¿Qué tan dispuesto estaría en experimentar nuevas herramientas para su mejora?
+	     - ¿Qué tanto está dispuesto a pagar para un servicio de fisioterapia presencial y también para uno virtual?
+	     - ¿Qué tan largas suelen ser las terapias que se le brinda?
+	
+	   - **Preguntas complementarias:**
+	     - ¿Cuántos años tiene?
+	     - ¿Cuál es su ocupación?
+	     - ¿Cuál es su distrito de residencia?
+	     - ¿Tiene alguna frase que lo represente? ¿Cuál es?
+	     - ¿Cuáles son las expectativas que tiene respecto al trato del fisioterapeuta? ¿Cómo se relacionan con su forma de ser?
+	
+	3. **Fisioterapeutas:**
+	
+	   - **Preguntas Principales:**
+	     - ¿Cuáles son los principales problemas a los que se enfrenta a la hora de coordinar con un paciente?
+	     - ¿Cuáles son las principales dudas que presentan los pacientes cuando comienzan un tratamiento fisioterapéutico?
+	     - ¿Cómo es el proceso normal o más común en una de sus terapias?
+	     - ¿Qué redes sociales suele utilizar como profesional?
+	     - ¿Qué dispositivos tecnológicos suele utilizar como profesional?
+	     - ¿Cómo empatiza con el paciente al momento de realizar la terapia?
+	     - ¿Qué objetivos busca lograr a través de su trabajo?
+	     - ¿Qué tan importante es para usted el uso de historiales médicos para la gestión del avance de los pacientes?
+	     - ¿Considera que es de ayuda la divulgación por internet de tratamientos adecuados para las condiciones de los pacientes? ¿Estaría dispuesto a contribuir?
+	     - ¿Qué tanto consideraría emplear otros medios para recaudar dinero aparte de su horario laboral en la clínica donde trabaja?
+	     - Con respecto a las consultas que ha realizado, ¿Cree que cada una de ellas exigió la atención y supervisión de un médico profesional? ¿Por qué?
+	     - ¿Cuál es el costo promedio de sus servicios?
+	     - ¿Qué tan efectivo podría ser un tratamiento virtual?
+	     - ¿Cuál es el dispositivo o componente más común que utiliza para los tratamientos de su paciente?
+	     - ¿De qué manera recolecta los datos y cómo los interpreta?
+	
+	   - **Preguntas complementarias:**
+	     - ¿Cuántos años tiene?
+	     - ¿Cuál es su ocupación?
+	     - ¿Cuál es su distrito de residencia?
+	     - ¿Qué es lo que le motiva a seguir realizando su trabajo?
+	     - ¿Tiene alguna frase que lo represente? ¿Cuál es?
+	     - ¿Cómo suele lidiar con el estrés y las frustraciones que le causa su labor?
+	     - ¿Qué impresión como persona busca dar a sus pacientes al momento de la consulta?
+
 	
