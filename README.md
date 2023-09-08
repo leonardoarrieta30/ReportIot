@@ -778,6 +778,13 @@ Link del MIRO: https://miro.com/app/board/uXjVPcPT8FA=/?share_link_id=4202197451
 | EP05 | Gestión de registro de progresos| Como usuario, deseo contar con un archivo de mi progreso durante el uso de la aplicación para conocer los avances conseguidos. | 
 | EP06 | Información presentada en el sitio web estático | Como visitante, deseo encontrar información acerca de la aplicación para conocer si esta me resultará útil. | 
 
+Epics registradas en Pivotal Tracker:<br>
+![Pivotal Epics](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/epics.png)<br><br>
+Link Pivotal Tracker:  https://www.pivotaltracker.com/n/projects/2675508
+
+En esta sección se presentan las historias de usuario pertenecientes a nuestra aplicación móvil y sitio web estático. Estas describen las características que requieren nuestros dos segmentos objetivos. Asimismo, se detallan los criterios de aceptación que nos permitirán comprobar si las funcionalidades logran satisfacer las necesidades de los usuarios. Además, se añaden las historias técnicas relacionadas a las características del RESTful API. 
+
+
 
 
 
