@@ -177,6 +177,17 @@ Ciclo:
 			- 4.2.9.6.2. Bounded Context Database Design Diagram.
 
 # Student Outcome
+| Criterio específico   | Acciones realizadas   | Conclusiones    |
+|----------------------|------------------------|-------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Del Carpio, Jose <br> **TB1:** <br> Realice la búsqueda de posibles opciones de negocio, analizar las distintas alternativas desde el punto de vista del desarrollo para elegir adecuadamente la opción más viable.<br><br> Pineda, Luis <br> **TB1:** <br> Investigue sobre soluciones parecidas a nuestro producto para poder comparas y reconocer las ventajas competitivas que podríamos ofrecer a nuestros usuarios.<br><br> Gomez, Cristhian <br> **TB1:** <br> Analice los problemas actuales que nuestros posibles usuarios afrontan para poder proponer una solución que sea verdaderamente útil y efectiva para nuestros clientes. <br><br> Ahuanari, María <br> **TB1:** <br> Indague acerca de las tecnologías utilizadas para la creación de aplicaciones móviles para conocer el marco en el cual desarrollaremos el producto y elegir la opción que sea más adecuada. <br><br> Arrieta, Leonardo<br> **TB1:** <br> Investigue sobre nuevos proyectos de software que busquen solucionar problemas comunes para tener ideas y plantear posibles soluciones que busquen resolver dichos problemas. | **TB1** <br> Durante la fase de elaboración, nuestro equipo utilizó principalmente la plataforma Discord como canal de comunicación para coordinar los diferentes subentregables establecidos para el proyecto, con el fin de completar cada sección a tiempo. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Del Carpio, Jose <br> **TB1:** <br> Del Carpio, Jose
+TB1: 
+Informé al grupo acerca de las responsabilidades que cada uno tendría en la reunión principal y también mantuve a todos al tanto de los progresos y actualizaciones que se registraban en los documentos.
+
+
+
+
+
 
 ## Capítulo I: Introducción
 ### 1.1. Startup Profile
