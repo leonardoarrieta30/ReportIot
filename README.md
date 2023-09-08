@@ -432,9 +432,93 @@ Tal como se puede apreciar en el gráfico, se estima que hasta el 2050 habrá un
 ### 2.1. Competidores
 - 2.1.1. Análisis competitivo<br>
   ![Analisis competitivo](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/CompetitiveAnalysis/Diagrama%20sin%20título.drawio.png)<br><br>
- 
 
+- 2.1.2. Estrategias y tácticas frente a competidores<br><br>
+	En base al análisis competitivo de nuestros competidores, que elaboramos previamente, hemos identificado las fortalezas y debilidades de nuestros competidores. Asimismo, las oportunidades y amenazas.  
+	
+	**Afrontando las fortalezas de nuestros competidores** 
+	
+	Las fortalezas de nuestra competencia se comprenden en:  
+	
+	•	La comunicación directa con sus pacientes y fisioterapeuta. <br> 
+	•	En los vínculos con aseguradoras de salud. <br>
+	•	Programas de rehabilitación personalizadas. 
+	
+	Comprendemos que nuestras fortalezas son: 
+	
+	•	La comunicación con fisioterapeutas expertos en el campo que requiera el paciente.<br> 
+	•	Los registros de proceso de rehabilitación de nuestros pacientes.  
+	
+	Así que podemos aplicar nuestra estrategia y tácticas para llevarla a cabo. 
+	
+	**Estrategia:** <br> 
+	Brindar al paciente un registro de proceso de rehabilitación personalizado en el cual será monitoreado por su fisioterapeuta asignado y podrá informarle de algunas dudas. 
+	
+	**Tácticas:** <br>
+	•	Concederle al fisioterapeuta una ganancia extra por el monitoreo a su paciente cuando lo requiera, esto será cubierto por el mismo paciente. <br>
+	•	Informar al paciente de una nueva forma de llevar el proceso de rehabilitación más efectiva.
+	
+	**Aprovechando las debilidades de nuestros competidores** 
+	
+	Las debilidades de nuestra competencia se comprenden en:  
+	
+	•	Requerimiento de un código HEP para recibir programas de ejercicios. <br>
+	•	Poca disponibilidad por parte de los fisioterapeutas. <br>
+	•	Sistema de búsqueda de información y videos deficiente.
+	
+	Así que podemos aplicar nuestra estrategia y tácticas para llevarla a cabo. 
+	
+	**Estrategia:** <br>
+	Proporcionar programas de ejercicios e información de formar gratuita y de una buena calidad para nuevos usuarios. 
+	
+	**Tácticas:** <br>
+	•	Plan de videos gratuitos para nuevos pacientes. <br>
+	•	Información completa gratuita <br>
+	•	Algunos programas de ejercicios gratuitos y otros con un costo de acuerdo con el plan que pertenezca.
+	
+	**Afrontando las oportunidades de nuestros competidores** <br> 
+	Las oportunidades de nuestra competencia se comprenden en:  
+	
+	•	Incremento del público interesado en realizar programas de ejercicios. <br>
+	•	Crecimiento de número de personas interesadas en conocer tratamientos de terapia física. <br>
+	•	Aumento de público interesado en realizar consultas medicas  
+	
+	Comprendemos que nuestras oportunidades son: 
+	
+	•	La integración y mejora de las funcionalidades deficientes de la competencia a nuestro producto. <br> 
+	•	Aumento de público interesado en la salud física.
+	
+	Así que podemos aplicar nuestra estrategia y tácticas para llevarla a cabo
 
+	**Estrategia:** <br> 
+	Atraer nuevos usuarios mediante la publicidad y una prueba de la aplicación 
+	
+	**Tácticas:** <br>
+	•	Publicidad de distintas redes sociales. <br> 
+	•	Prueba gratis con todas las funcionalidades de la aplicación durante 7 días. 
+	
+	**Aprovechando las amenazas de nuestros competidores** <br>
+	Las amenazadas de nuestra competencia se comprenden en:  
+	
+	•	Dependencia de la plataforma PT-Connect para que los fisioterapeutas puedan enviar programas de ejercicios.<br> 
+	•	Sistema de solicitud de consultas y terapias individuales desactualizado. <br> 
+	•	Software e interfaz de interacción desactualizados. 
+	
+	Así que podemos aplicar nuestra estrategia y tácticas para llevarla a cabo. 
+	
+	**Estrategia:** <br> 
+	Plataforma de programa de ejercicios que viene integrado en la aplicación y actualización cuando se requiera 
+	
+	**Tácticas:** <br> 
+	•	Actualizar la plataforma cuando se descubran fallos en la interacción con el usuario. <br> 
+	•	Incluir programas de ejercicios en la aplicación sin la necesidad de usar otras aplicaciones. 
+	
 
-
-
+### 2.2. Entrevistas
+En este punto presentaremos los resultados de las entrevistas realizadas a los usuarios objetivos
+ - 2.2.1. Diseño de entrevistas<br><br>
+	En esta sección, mostraremos las preguntas que hemos generado para realizar las entrevistas a los dos tipos de usuarios objetivos. Cabe destacar, que las preguntas realizadas son de tipo abierto, con el objetivo de recolectar información relevante que nos ayude a tener una idea más precisa de cómo solucionar problemas de nuestros usuarios objetivos.
+		
+	
+	
+	
