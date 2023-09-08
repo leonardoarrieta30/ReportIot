@@ -713,3 +713,20 @@ En este punto presentaremos los resultados de las entrevistas realizadas a los u
  - 2.3.2. User Task Matrix<br><br>
 	![Task Matrix Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TaskMatrix/TaskMatrix%20Pacientes.jpg)<br><br>
  	![Task Matrix Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TaskMatrix/TaskMatrix%20Fisioterapeuta.jpg)<br><br>
+	#### Tareas con mayor frecuencia e importancia:
+	•	**Frecuencia:** respecto al paciente estas tareas están relacionadas con separar citas para sus terapias. Así como de brindarle información al fisioterapeuta respecto a su condición. Entre la más frecuente también está la de realizar los ejercicios con ayuda del especialista y de pedir el reporte de avance de su recuperación. Respecto a los fisioterapeutas, observamos que las tareas con mayor frecuencia son las de programar las citas con los pacientes. También identificar los ejercicios que le corresponden para su rehabilitación. Por otra parte, está la de realizar los ejercicios y de brindarle el reporte después de cada terapia.<br>
+	•	**Importancia:** respecto al paciente las tareas con alta importancia son las de llamar al consultorio, acudir al fisioterapeuta para recibir la terapia, realizar los ejercicios con su ayuda y reservar la próxima cita para no tener que volver a llamar y encontrar citas copadas. Respecto al fisioterapeuta, las tareas con alta importancia son: llamar al paciente para recordarle su cita, revisar el historial médico del paciente antes de atenderlo. Otras tareas de alta importancia son: identificar y realizar los ejercicios que requiere la condición del paciente, así como de mostrarle el reporte de avance de cómo va su recuperación.
+	#### Diferencias y Similitudes:
+	Las diferencias que se pueden encontrar en las tareas con los users personas son: identificar los ejercicios para la terapia. Esta tarea resulta de suma relevancia para el fisioterapeuta, ya que él es el especialista capacitado y con los conocimientos necesarios para determinar qué ejercicios debe realizar el paciente. Mientras que el paciente no puede realizar dicha tarea. Otra de las diferencias es que el fisioterapeuta es el encargado de programar las citas. Si bien es cierto, el paciente es el que hace las reservas, pero no puede asegurar que se realice en el día que dispongan por las limitaciones de las citas disponibles.<br>
+	En las similitudes que podemos encontrar para ambos users personas son: realización de los ejercicios en cada terapia, ya que en esa situación tanto paciente como fisioterapeutas están involucrados totalmente para que la rehabilitación se de forma correcta. A esta similitud se le suma, el reporte de avance del tratamiento, ya que finalizada la terapia corresponde a la fisioterapia brindar la información y al paciente revisarla<br>
+ - 2.3.3. User Journey Mapping<br><br>
+ 	El desarrollo del User Journey Mapping nos permitió reconocer las etapas, canales, problemas y experiencias por las que pasa nuestro usuario durante el ciclo de uso de la aplicación.
+	#### Segmento 1: Paciente con problemas físicos
+	![Journey Map Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/JourneyMaps/JourneyMap%20Pacientes.png)<br><br>
+	Se presenta el User Journey Map para el segmento de pacientes con problemas físicos, en el cual se establecen las distintas etapas por las que pasa este usuario durante el uso de la aplicación.
+
+ 	#### Segmento 2: Fisioterapeutas
+	![Journey Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/JourneyMaps/JourneyMap%20Fisioterapeutas.png)<br><br>
+ 	
+	Se presenta el User Journey Map para el segmento de fisioterapeutas, en el cual se establecen las distintas etapas por las que pasa este usuario durante el uso de la aplicación.
+	Link UXPRESSIA para visualización de los User Journey Map: https://uxpressia.com/w/v8FzI/p/ZGwSo
