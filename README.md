@@ -1336,7 +1336,13 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 
 	Pérez, A. (2016). Impacto de la discapacidad en el núcleo familiar. España: Académica-e, repositorio institucional de la Universidad Pública de Navarra. Recuperado de https://academica-e.unavarra.es/bitstream/handle/2454/23449/TFG_AMAIA%20PEREZ%20AYESA.pdf?sequence=1&isAllowed=y  [Consulta: 28 de Agosto de 2022]. 
 
-  
+
+# Anexos
+### Anexo A. Consideraciones sobre secciones que incluyen videos
+| Producto               | URL                                                  |
+|------------------------|------------------------------------------------------|
+| Needfinding Interviews | [https://web.microsoftstream.com/video/f635fac0-8e57-4fd1-8299-3893114161ff](https://web.microsoftstream.com/video/f635fac0-8e57-4fd1-8299-3893114161ff) |
+
 
 	
 
