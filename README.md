@@ -1463,8 +1463,8 @@ Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes sec
 |     |     | 203f638f1fd3e7a8b0a89edeb797bad13cbf5a64  | fix  |  routing fixed  |                   24/09/2023 09:40 p.m     |
 | --- | --- | --- | --- |
 |     | feature/diagnosis  | 46e84895e7a28b77c05b975f39d4ab484e7dae74  | feat(diagnosis)  |  added diagnosis component  | 25/09/2023 04:40 p.m  |
-| 087248f3e2a3ce9c53ec905978980f9699b8f6e3  | feat(diagnosis)   | modified diagnosis component  | 25/09/2023 06:10 p.m   |
-| c2917c76487526295ea8402aba94b6e4dfb28e87  | feat(diagnosis)   | modified diagnosis' html component  | 26/09/2023 06:50 p.m   |
+|     |     | 087248f3e2a3ce9c53ec905978980f9699b8f6e3  | feat(diagnosis)   | modified diagnosis component  | 25/09/2023 06:10 p.m   |
+|     |     | c2917c76487526295ea8402aba94b6e4dfb28e87  | feat(diagnosis)   | modified diagnosis' html component  | 26/09/2023 06:50 p.m   |
 |     | feature/treatments-physiotherapist  | 08850c8cc59763eb1c3bc8adc23dd8a2f3e31888  | feat(physiotherapists-treatments)  | added section of all uploaded treatments   | 26/09/2023 07:00 p.m   |
 |     | feature/medical-appointments-physiotherapist   | bc0a2e699f5faeef842ed2e98075c17f4b4ee7ac  | feat(physiotherapists-appointments)  | added appointments section for physiotherapists   | 26/09/2023 09:00 p.m  |
 |
