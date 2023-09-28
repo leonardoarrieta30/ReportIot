@@ -1347,7 +1347,7 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 
 | Sprint #   | Sprint 1    |
 | ---        | ---         |
-| User Story | Work-item/Task |
+| User Story | Work-item/Task | Description | Estimation (Hours) | Assigned To       | Status (To-do /In-Process /To-Review /Done) |
 | ---        | ---         |
 | Id         | Tittle      | Description | Estimation (Hours) | Assigned To       | Status (To-do /In-Process /To-Review /Done) |
 | ---        | ---         | ---         | ---                | ---               | ---                                       |
