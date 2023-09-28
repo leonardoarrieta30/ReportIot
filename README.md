@@ -1345,7 +1345,7 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 
 ### Aqui empezamos el capitulo 6
 
-| Sprint # | Sprint 1 |
+| Sprint # | Sprint 1 |     |     |     |     |     |     |
 | --- | --- |
 | User Story | Work-item/Task |
 | --- | --- |
