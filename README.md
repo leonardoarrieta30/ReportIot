@@ -1353,11 +1353,11 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | #183109786  | HU24: Información sobre las funciones para los pacientes  | TA01  | Añadir títulos  | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento pacientes.  | 2 | Luis Pineda   | Done  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TA02  | Añadir descripción  | Se añadirán párrafos que describan las funciones para los pacientes con más detalles.  | 3 | Luis Pineda   | Done  |
+|     |     | TA02  | Añadir descripción  | Se añadirán párrafos que describan las funciones para los pacientes con más detalles.  | 3 | Luis Pineda   | Done  |
 | --- | --- | --- | --- | --- | --- |
-| TA03  | Añadir imágenes  | Se añadirán imágenes representativas por cada función para paciente nombrada  | 3 | Luis Pineda   | Done  |
+|     |     | TA03  | Añadir imágenes  | Se añadirán imágenes representativas por cada función para paciente nombrada  | 3 | Luis Pineda   | Done  |
 | --- | --- | --- | --- | --- | --- |
-| TA04  | Añadir sección hero  | Añadir sección inicial en la que se describa brevemente a la plataforma.  | 3 | Luis Pineda   | Done  |
+|     |     | TA04  | Añadir sección hero  | Añadir sección inicial en la que se describa brevemente a la plataforma.  | 3 | Luis Pineda   | Done  |
 | --- | --- | --- | --- | --- | --- |
 | #183109788  | HU26: Información sobre las funciones para los fisioterapeutas  | TA01  | Añadir títulos  | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento fisioterapeutas.  | 2 |  Jose Del Carpio | Done   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
