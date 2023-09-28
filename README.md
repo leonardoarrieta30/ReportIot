@@ -1345,10 +1345,10 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 
 ### Aqui empezamos el capitulo 6
 
-| Sprint # | Sprint 1 | --- | --- | --- | --- | --- | --- |
+| Sprint # | Sprint 1 |
 | --- | --- |
 | User Story | Work-item/Task |
-| --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Id | Tittle | Id | Tittle | Description | Estimation (Hours) | Assigned To | Status (To-do /In-Process /To-Review /Done) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | #183109786  | HU24: Información sobre las funciones para los pacientes  | TA01  | Añadir títulos  | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento pacientes.  | 2 | Luis Pineda   | Done  |
