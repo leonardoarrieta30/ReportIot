@@ -1467,8 +1467,7 @@ Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes sec
 |     |     | c2917c76487526295ea8402aba94b6e4dfb28e87  | feat(diagnosis)   | modified diagnosis' html component  | 26/09/2023 06:50 p.m   |
 |     | feature/treatments-physiotherapist  | 08850c8cc59763eb1c3bc8adc23dd8a2f3e31888  | feat(physiotherapists-treatments)  | added section of all uploaded treatments   | 26/09/2023 07:00 p.m   |
 |     | feature/medical-appointments-physiotherapist   | bc0a2e699f5faeef842ed2e98075c17f4b4ee7ac  | feat(physiotherapists-appointments)  | added appointments section for physiotherapists  | 26/09/2023 09:00 p.m  |
-|      | Master  | bab45a3e52b36b0baa08924f3a9b45a42196b799  | [Initial commit](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/bab45a3e52b36b0baa08924f3a9b45a42196b799)
-| Se creó el proyecto   | 17/09/2023 17:17 PM  |
+|      | Master  | bab45a3e52b36b0baa08924f3a9b45a42196b799  | [Initial commit](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/bab45a3e52b36b0baa08924f3a9b45a42196b799) | Se creó el proyecto   | 17/09/2023 17:17 PM  |
 |      | Master  | ad863169160ed38ba6c74bdbb88a8a20bb24c692  | feat(project): add project folders | Se agregaron las carpetas del proyecto  | 17/09/202317:20 PM  |
 |      | Develop  | 26ac6d3171a92ee3d5e08656b824cacb1835ea16  | [feat(head): add meta tags and link styles](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/26ac6d3171a92ee3d5e08656b824cacb1835ea16) | Se agregaron los meta tags y se enlazó el html con el css  | 15/09/2023 18:21 PM  |
 |      | Develop  | 5c9d3d3ec4522e9d6223c21eafaea4b1b06bf8f4  | [feat(hero): add styles for hero](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/5c9d3d3ec4522e9d6223c21eafaea4b1b06bf8f4) | Se añadieron los estilos para el hero  | 15/09/2023 18:28 PM  |
