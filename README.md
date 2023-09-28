@@ -1341,9 +1341,10 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 		A continuación, se presenta el modelo de base de datos para este bounded Context: 
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149676597620781156/PT02AAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAIEsYPjOdEICBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAh8AgOEFz6AlaFitwAAAABJRU5ErkJggg.png?width=1305&height=621" width="400"><br><br>
 
+### **Capítulo VI: Product Implementation, Validation & Deployment**
 
-
-### Aqui empezamos el capitulo 6
+### 6.2.1 **Sprint 1**
+### 6.2.1.2 **Sprint backlog 1**
 
 | Sprint # | Sprint 1 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1444,7 +1445,7 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 |   |   |   |   |   |   |   |   |   |
 
 
-#### **Development Evidence for Sprint Review**
+### 6.2.1.3 **Development Evidence for Sprint Review**
 
 Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes secciones de nuestra aplicación web:  Treatments, Treatments-info, Treatments-sessions, Physiotherpists, Physiotherpist-profile, Schedule-appointment, Payment, Appointments, Log-in y Sign-up
 
@@ -1477,8 +1478,8 @@ Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes sec
 |      | Develop   | db665ba536f875ae0a0897d5d0bdb0e48170a08a  | feat(physiotherapist): add section physiotherapist | Se agregó el contenido para la sección Physiotherapist   | 16/09/2023 20:40 PM   |
 |      | Develop  | 7be6ae84fdfb04d547eca4bc21d1ddd0511a0996  | feat(physiotherapist): add styles to physiotherapist section | Se agregaron los estilos para la sección Physiotherapist  | 16/09/2023 20:48 PM   |
 
-      1.
-#### **Testing Suite Evidence for Sprint Review**
+
+### 6.2.1.4 **Testing Suite Evidence for Sprint Review**
 
 En está sección presentamos el conjunto de Acceptance Test relacionados con las User Stories seleccionadas para el desarrollo del Sprint 1. Para dichos criterios de aceptación se utilizó el lenguaje Gherkin bajo el enfoque BDD.
 
@@ -1486,8 +1487,8 @@ En está sección presentamos el conjunto de Acceptance Test relacionados con la
 | --- | --- | --- | --- | --- | --- |
 |  [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test)   |  main    | 7763fda7c542dc0a693e619f0873a667c0205737  |    feat(testing)  | Added acceptance criteria: HU07, HU08, HU09,HU13,HU18,HU19,HU20,HU21,HU44  | 27/09/2023  8:50 PM  |
 
-      1.
-#### **Execution Evidence for Sprint Review**
+
+### 6.2.1.5 **Execution Evidence for Sprint Review**
 
 Para este segundo sprint, conseguimos desarrollar y desplegar el Landin Page y las siguientes secciones de nuestra aplicación web:  Treatments, Treatments-info, Treatments-sessions, Physiotherpists, Physiotherpist-profile, Schedule-appointment, Payment y Appointments.
 
@@ -1562,8 +1563,7 @@ Evidencia:
 
 Link video de demostración:
 
-      1.
-#### **Services Documentation Evidence for Sprint Review**
+### 6.2.1.6 **Services Documentation Evidence for Sprint Review**
 
 En este Sprint 1 se ha desarrollado únicamente el Front-end. Por lo tanto, no se han realizado operaciones con la API. Sin embargo, se ha utilizado una fake-API, con la que hemos implementado la aplicación web. Además, utilizamos la plataforma My Json Server para publicar esta fake-API. A continuación, se mostrarán los endpoints desarrollados en este sprint.
 
@@ -1582,8 +1582,8 @@ En este Sprint 1 se ha desarrollado únicamente el Front-end. Por lo tanto, no s
 | [https://api-iotheraphy-production.up.railway.app/api/v1](https://api-iotheraphy-production.up.railway.app/api/v1)/auth/registration | POST | Ingresa un nuevo usuario a la base de datos de Theraphy y brinda un Token de acceso a permisos |
 | [https://api-iotheraphy-production.up.railway.app/api/v1/auth/authentication](https://api-iotheraphy-production.up.railway.app/api/v1/auth/authentication)    | POST  | Comprueba la existencia de un usuario en la base de datos de Theraphy y brinda un token de acceso |
 
-      1.
-#### **Software Deployment Evidence for Sprint Review**
+
+### 6.2.1.7 **Software Deployment Evidence for Sprint Review**
 
 Para el despliegue de la aplicación web utilizamos la plataforma GitHub Pages.
 
@@ -1593,8 +1593,8 @@ Para el despliegue de la API utilizada empleamos el servicio de Railway; sin emb
 
 Link de la API desplegada: [https://api-iotheraphy-production.up.railway.app](https://api-iotheraphy-production.up.railway.app/)
 
-      1.
-#### **Team Collaboration Insights during Sprint**
+
+### 6.2.1.8 **Team Collaboration Insights during Sprint**
 
 Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra aplicación web.
 
@@ -1614,7 +1614,6 @@ En este gráfico se puede visualizar el número de clonaciones que se le ha real
 
 En la presente imagen se muestran las ramas que se desprenden de nuestra rama principal. Asimismo, se puede visualizar los features realizados en cada respectivo commit.
 
-####
 
 
 
