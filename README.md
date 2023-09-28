@@ -1346,6 +1346,7 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 ### Aqui empezamos el capitulo 6
 
 | Sprint # | Sprint 1 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story | Work-item/Task |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Id | Tittle | Id | Tittle | Description | Estimation (Hours) | Assigned To | Status (To-do /In-Process /To-Review /Done) |
