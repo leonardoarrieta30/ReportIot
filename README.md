@@ -1460,7 +1460,7 @@ Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes sec
 | --- | --- | --- | --- |
 |     | feature/ my-patients  | 4ccfe0f80a86413683f525db09bfd8048b6f968c  | feat(patients)  | added list of patients and filter function for physiotherapists   |  22/09/2023 09:10 p.m     |
 | --- | --- | --- | --- | --- |
-| 203f638f1fd3e7a8b0a89edeb797bad13cbf5a64  | fix  |  routing fixed  |                   24/09/2023 09:40 p.m     |
+|     |     | 203f638f1fd3e7a8b0a89edeb797bad13cbf5a64  | fix  |  routing fixed  |                   24/09/2023 09:40 p.m     |
 | --- | --- | --- | --- |
 |     | feature/diagnosis  | 46e84895e7a28b77c05b975f39d4ab484e7dae74  | feat(diagnosis)  |  added diagnosis component  | 25/09/2023 04:40 p.m  |
 | 087248f3e2a3ce9c53ec905978980f9699b8f6e3  | feat(diagnosis)   | modified diagnosis component  | 25/09/2023 06:10 p.m   |
