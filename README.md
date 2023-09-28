@@ -1467,7 +1467,6 @@ Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes sec
 |     |     | c2917c76487526295ea8402aba94b6e4dfb28e87  | feat(diagnosis)   | modified diagnosis' html component  | 26/09/2023 06:50 p.m   |
 |     | feature/treatments-physiotherapist  | 08850c8cc59763eb1c3bc8adc23dd8a2f3e31888  | feat(physiotherapists-treatments)  | added section of all uploaded treatments   | 26/09/2023 07:00 p.m   |
 |     | feature/medical-appointments-physiotherapist   | bc0a2e699f5faeef842ed2e98075c17f4b4ee7ac  | feat(physiotherapists-appointments)  | added appointments section for physiotherapists  | 26/09/2023 09:00 p.m  |
-|
 | Master  | bab45a3e52b36b0baa08924f3a9b45a42196b799  | [Initial commit](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/bab45a3e52b36b0baa08924f3a9b45a42196b799)
 | Se creó el proyecto   | 17/09/2023 17:17 PM  |
 | Master  | ad863169160ed38ba6c74bdbb88a8a20bb24c692  | feat(project): add project folders | Se agregaron las carpetas del proyecto  | 17/09/202317:20 PM  |
