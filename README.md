@@ -1495,70 +1495,70 @@ Se presentan screenshots del desarrollo del Landing Page:
 
 Se muestra el Header donde se encuentran los botones de Home, Services, Pricing, Testimonials, About Us y el botón para cambiar de idioma English-Spanish para que puedan desplazarse a la sección que quieran visualizar.
 
-![](RackMultipart20230928-1-6addr9_html_ded633eb440c50e8.png)
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/header.jpg?raw=true" width="600">
 Ilustración 1: Encabezado y botones de desplazamiento
 
 Se muestra la sección de Hero, donde se muestra una breve descripción y frase representativa de Theraphy. Además, de permitir empezar a utilizar el servicio web y brinda una imagen relacionada a ello.
 
-![](RackMultipart20230928-1-6addr9_html_8b6a48c5605cb085.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/hero.jpg" width="600">
 Ilustración 2: Sección de Hero
 
 Se muestra la sección testimonials, donde se muestran tarjetas de información que contienen los comentarios de los clientes satisfechos con el servicio otorgado por parte de Theraphy
 
-![](RackMultipart20230928-1-6addr9_html_9de9641f29f53761.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/testimonials.jpg" width="600">
 
 Ilustración 3: Sección de Testmonials
 
 Se muestra la sección servicios, donde se integra texto y un fondo coherente para que permita su visualización. Cuando el mouse sobrepase el área del cuadro, se descubrirá la imagen que contiene cada bloque. Asimismo, se presentan COT acordes a cada segmento objetivo para que proceda a la descarga de la aplicación.
 
-![](RackMultipart20230928-1-6addr9_html_2c9986c2dec33aba.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/servicios.jpg" width="600">
 lustración 4: Sección de servicios 1
 
-![](RackMultipart20230928-1-6addr9_html_e2d70b7997fe5f61.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/servicios%202.png" width="600">
 Ilustración 5: Sección de servicios 2
 
 Finalmente, se muestra la sección footer con nuestras redes sociales y botones que le permitirán volver a las secciones que desee el usuario.
 
-![](RackMultipart20230928-1-6addr9_html_a94c69165d739bdf.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/footer.jpg" width="600">
 Ilustración : Sección de contáctanos
 
 Evidencia:
 
 - **Treatments:** Muestra los tratamientos que se encuentran disponibles en la plataforma a nuestros pacientes.
 
-![](RackMultipart20230928-1-6addr9_html_b6727fdec37b5b10.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/treatments.jpg" width="600">
 
 
 
 - **Treatments-info:** Presenta la información detallada de los tratamientos ofrecidos dentro de la aplicación.
 
-![](RackMultipart20230928-1-6addr9_html_a29f11da812db460.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/treatments%20info.jpg" width="600">
 
 - **Treatments-session:** Muestra la sesión; es decir, el video de rutina que le toca al paciente en el tratamiento elegido.
 
-![](RackMultipart20230928-1-6addr9_html_9a69a4c64d9171e0.png)
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/treatment%20secction.jpg?raw=true" width="600">
 
 -   **Physiotherapists:** Muestra los fisioterapeutas que se encuentras registrados en la aplicación.
 
-![](RackMultipart20230928-1-6addr9_html_17dfee4107c1816f.png)
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/physiotherapist.jpg?raw=true" width="600">
 
 - **Physiotherapists-profile:** Muestra la información que el fisioterapeuta ha registrado en su perfil.
 
-![](RackMultipart20230928-1-6addr9_html_1223b19fdfb4fae1.png)
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/physiotherapists%20profile.png?raw=true" width="600">
 
 
 
 - **Schedule-Appointment:** Muestra el calendario de días disponibles del fisioterapeuta, estos pueden ser seleccionados por el usuario para reservar una cita médica.
 
-![](RackMultipart20230928-1-6addr9_html_b8f7534495942052.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/schedule%20appointment.jpg" width="600">
 
 - **Payment:** Muestra el formulario de pago para financiar la cita médica con el fisioterapeuta.
 
-![](RackMultipart20230928-1-6addr9_html_eb6dd2c038170bc5.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/payment.jpg" width="600">
 
 - **Appointments:** Muestra las consultas médicas que tiene reservadas el usuario.
 
-![](RackMultipart20230928-1-6addr9_html_cd1a64717b13fa6.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/medical%20appointments.jpg" width="600">
 
 Link video de demostración:
 
@@ -1598,19 +1598,21 @@ Link de la API desplegada: [https://api-iotheraphy-production.up.railway.app](ht
 
 Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra aplicación web.
 
-![](RackMultipart20230928-1-6addr9_html_edc39c8901e69ad5.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/team%20collaboration%20insights.jpg" width="600">
 
 En la imagen se puede visualizar el número de pull requests realizados por todo el equipo. También se presenta en la parte inferior un gráfico con la cantidad de commits realizados por cada integrante.
 
-![](RackMultipart20230928-1-6addr9_html_fe0e284aa5f98692.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/pull%20requets.jpg" width="600">
 
 En la imagen se evidencia el número de cambios realizados por cada integrante y el intervalo de fechas en que estos se efectuaron.
 
-![](RackMultipart20230928-1-6addr9_html_6d7820cc64c0f74c.png)
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/cambios%20realizados%201.jpg" width="600">
 
 En este gráfico se puede visualizar el número de clonaciones que se le ha realizado al repositorio. Además, presenta el tráfico de visitantes que ha tenido el repositorio.
 
-![](RackMultipart20230928-1-6addr9_html_48c126c4cc9b458e.png)En la presente imagen se muestran las ramas que se desprenden de nuestra rama principal. Asimismo, se puede visualizar los features realizados en cada respectivo commit.
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/clonaciones.jpg" width="600">
+
+En la presente imagen se muestran las ramas que se desprenden de nuestra rama principal. Asimismo, se puede visualizar los features realizados en cada respectivo commit.
 
 ####
 
