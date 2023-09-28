@@ -1450,15 +1450,15 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 
 Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes secciones de nuestra aplicación web:  Treatments, Treatments-info, Treatments-sessions, Physiotherpists, Physiotherpist-profile, Schedule-appointment, Payment, Appointments, Log-in y Sign-up
 
-| **Repository   ** | **Branch   ** | **Commit ID   ** | **Commit Message   ** | **Commit Message Body   ** | **Committed on (Date)   ** |
+| **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
 | --- | --- | --- | --- | --- | --- |
-|    [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy)  | Feature/physiotherapist-sidenav  | 2c72c073b139b17835797d6263196f7db4decac2  | feat(physiotherapists-sidenav)  | added sidenav to physiotherapists sections   | 20/09/2023 04:30 p.m     |
+|    [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy)  | Feature/ physiotherapist-sidenav  | 2c72c073b139b17835797d6263196f7db4decac2  | feat(physiotherapists-sidenav)  | added sidenav to physiotherapists sections   | 20/09/2023 04:30 p.m     |
 | --- | --- | --- | --- | --- | --- |
 |     | feature/ profile-Physiotherapist  | 790d7e823f8bd88729dcfa9530b06e377139feeb   |            feat(physiotherapists-profile)       |                                                                                        added physiotherapist profile section  | 20/09/2023 07:20 p.m    |
 | --- | --- | --- | --- | --- |
 | 1f59ba0a92a86b5e3c30f41da6b878c36d5b6254  | feat(physiotherapists-profile-education)  | added education section to physiotherapist profile   | 21/09/2023 09:00 p.m     |
 | --- | --- | --- | --- |
-|     | feature/my-patients  | 4ccfe0f80a86413683f525db09bfd8048b6f968c  | feat(patients)  | added list of patients and filter function for physiotherapists   |  22/09/2023 09:10 p.m     |
+|     | feature/ my-patients  | 4ccfe0f80a86413683f525db09bfd8048b6f968c  | feat(patients)  | added list of patients and filter function for physiotherapists   |  22/09/2023 09:10 p.m     |
 | --- | --- | --- | --- | --- |
 | 203f638f1fd3e7a8b0a89edeb797bad13cbf5a64  | fix  |  routing fixed  |                   24/09/2023 09:40 p.m     |
 | --- | --- | --- | --- |
