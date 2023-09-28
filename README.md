@@ -1345,73 +1345,104 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 
 ### Aqui empezamos el capitulo 6
 
-| Sprint #   | Sprint 1    |
-| ---        | ---         |
-| User Story | Work-item/Task | Description | Estimation (Hours) | Assigned To       | Status (To-do /In-Process /To-Review /Done) |
-| ---        | ---         |
-| Id         | Tittle      | Description | Estimation (Hours) | Assigned To       | Status (To-do /In-Process /To-Review /Done) |
-| ---        | ---         | ---         | ---                | ---               | ---                                       |
-| #183109786 | HU24: Información sobre las funciones para los pacientes | TA01 | Añadir títulos | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento pacientes. | 2 | Luis Pineda | Done |
-|            |                                                      | TA02 | Añadir descripción | Se añadirán párrafos que describan las funciones para los pacientes con más detalles. | 3 | Luis Pineda | Done |
-|            |                                                      | TA03 | Añadir imágenes | Se añadirán imágenes representativas por cada función para paciente nombrada | 3 | Luis Pineda | Done |
-|            |                                                      | TA04 | Añadir sección hero | Añadir sección inicial en la que se describa brevemente a la plataforma. | 3 | Luis Pineda | Done |
-| #183109788 | HU26: Información sobre las funciones para los fisioterapeutas | TA01 | Añadir títulos | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento fisioterapeutas. | 2 | Jose Del Carpio | Done |
-|            |                                                      | TA02 | Añadir descripción | Se añadirán párrafos que describan las funciones para los fisioterapeutas con más detalles. | 3 | Leonardo Arrieta | Done |
-|            |                                                      | TA03 | Añadir imágenes | Se añadirán imágenes representativas por cada función para fisioterapeuta nombrada | 3 | Jose Del Carpio | Done |
-|            |                                                      | TA04 | Añadir botón de unirse | Se añadirá un botón que traslade al fisioterapeuta a la aplicación web. | 4 | Jose Del Carpio | Done |
-| #183109794 | HU28: Sección comentarios | TA01 | Añadir cuadros para los testimonios | Se añadirán 3 cuadros para mostrar los testimonios dados por pacientes usuarios de la aplicación. | 2 | Jose Del Carpio | Done |
-|            |                                                      | TA02 | Añadir comentarios | Se añadirán los comentarios como tal en los cuadros correspondientes. | 2 | Leonardo Arrieta | Done |
-|            |                                                      | TA03 | Añadir fotos de los comentarios | Se añadirán las fotos de las pacientes que brindaron su comentario. | 2 | Leonardo Arrieta | Done |
-| #183136085 | HU30: Desplazamiento en el sitio web estático | TA01 | Añadir lista de etiquetas | Se añadirán las etiquetas de Home, Services, Pricing, Testimonials y About Us correspondientes a las secciones dentro de la landing page | 1 | María Ahuanari | Done |
-|            |                                                      | TA02 | Aplicar estilo de etiqueta activa | Se aplicará la pseudo clase hover para mostrar qué etiquetas se encuentran activas. | 2 | María Ahuanari | Done |
-|            |                                                      | TA03 | Vincular etiquetas con secciones | Se vinculará las etiquetas a través de los id para facilitar el desplazamiento del usuario dentro de la landing page. | 1 | María Ahuanari | Done |
-| #183136086 | HU31: Canales de contacto | TA01 | Añadir íconos de redes sociales | Se añadirán los íconos de las diferentes redes sociales utilizadas por Therapy | 1 | María Ahuanari | Done |
-|            |                                                      | TA02 | Añadir enlace a los íconos | Se añadirán los enlaces correspondientes a las cuentas de las redes sociales para que los usuarios puedan acceder fácilmente a ellas. | 1 | Cristhian Gómez | Done |
-|            |                                                      | TA03 | Añadir correo electrónico | Se añadirá el correo para contacto con Therapy | 1 | Cristhian Gómez | Done |
-|            |                                                      | TA04 | Añadir dirección y número de teléfono | Se añadirá la dirección y número telefónico de Therapy | 1 | Cristhian Gómez | Done |
-| #183136087 | HU13: Reserva de consulta médica | TA01 | Agregar botón de agendamiento de cita en el perfil de doctor | Se agregará un botón que permita iniciar el proceso de reserva de cita médica | 1 | Cristhian Gómez | Done |
-|            |                                                      | TA02 | Añadir calendario de selección de fecha | Se añadirá la vista de un calendario donde el usuario podrá seleccionar la fecha en que se realizará la cita médica. | 2 | Jose Del Carpio | To Do |
-|            |                                                      | TA03 | Añadir sección de pago de la reserva de cita médica | Se añadirá una sección que el usuario rellenará con los datos de su tarjeta para realizar el pago de la cita médica | 2 | María Ahuanari | Done |
-| #183136088 | HU08: Visualización de ejercicios | TA01 | Agregar sección para la visualización de las sesiones de ejercicios | Se añadirá una sección que presente los videos de ejercicios a realizar para cada tratamiento. | 2 | Luis Pineda | Done |
-|            |                                                      | TA02 | Añadir video de la sesión | Se añadirá el video que contenga los ejercicios a realizar en la sesión que se ha seleccionado. | 1 | Luis Pineda | Done |
-|            |                                                      | TA03 | Añadir botones de cambio de sesión | Se añadirán los botones que permitan movilizarse a una siguiente sesión o a una anterior. | 3 | Leonardo Arrieta | Done |
-| #183136089 | HU09: Publicación de videos de ejercicios | TA01 | Añadir sección para la publicación de un nuevo video de ejercicios | Se agregará una sección que presenta el formulario para la publicación de un video de ejercicios | 2 | Cristhian Gómez | To-do |
-|            |                                                      | TA02 |  |  |  |  |  |
-| #183136090 | HU07: Búsqueda de tratamientos | TA01 | Añadir sección de tratamientos | Se añadirá una sección que presentará la lista de tratamientos publicados en la aplicación | 2 | Jose Del Carpio | Done |
-|            |                                                      | TA02 | Añadir caja de búsqueda | Se añadirá un input que permita ingresar el nombre de un tratamiento | 2 | Jose Del Carpio | Done |
-|            |                                                      | TA03 | Agregar lista de resultados por coincidencia | Se enlistarán cada uno de los tratamientos que coincidan con el nombre ingresado en la barra de búsqueda | 3 | Jose Del Carpio | Done |
-| #183136091 | HU18: Visualización de horario de consultas | TA01 | Agregar lista de citas médicas agendas | Se agregará una lista que muestre a todas las citas agendadas para el doctor | 3 | Cristhian Gómez | Done |
-|            |                                                      | TA02 | Añadir vista de detalles de cita médica | Se añadirá una vista que presentará la información de cada cita médica reservada. | 2 | Maria Ahuanari | Done |
-| #183136092 | HU19: Envío de diagnóstico y recomendaciones | TA01 | Añadir botón de nuevo diagnóstico | Se añadirá un botón en la vista de una cita médica que permita iniciar el proceso de envío de diagnóstico a un paciente. | 2 | Luis Pineda | Done |
-|            |                                                      | TA02 | Añadir caja de texto | Se añadirá input para ingresar el diagnóstico que se le brindará al paciente | 2 | Luis Pineda | Done |
-| #183136093 | HU20: Visualización de los resultados de la consulta | TA01 | Agregar botón | Se añadirá un botón que permita al usuario direccionarse a la vista de resultados de consultas médicas | 2 | Leonardo Arrieta | Done |
-|            |                                                      | TA02 | Añadir vista de los resultados de las consultas médicas | Se añadirá una sección que presentará los resultados de cada consulta médica realizada. | 3 | Leonardo Arrieta | Done |
-| #183136094 | HU21: Calificación de fisioterapeutas | TA01 | Añadir título de reseñas | Agregar título que indique que se presentarán las reseñas del profesional | 1 | Cristhian Gomez | Done |
-|            |                                                      | TA02 | Añadir lista de reseñas dadas | Mostrar las reseñas realizadas previamente al fisioterapeuta | 2 | Cristhian Gomez | Done |
-|            |                                                      | TA03 | Añadir botón de nueva reseña | Añadir botón que lleve al formulario de nueva reseña | 1 | Cristhian Gomez | Done |
-| #183109753 | HU01: Registro de cuenta | TA01 | Añadir título | Añadir título que indique que se encuentra en el registro | 1 | Luis Pineda | Done |
-|            |                                                      | TA02 | Añadir Input de nombre | Añadir Input que permita ingresar el nombre con sus validaciones | 2 | Luis Pineda | Done |
-|            |                                                      | TA03 | Añadir Input de apellido | Añadir Input que permita ingresar el apellido con sus validaciones | 2 | Luis Pineda | Done |
-|            |                                                      | TA04 | Añadir Input cumpleaños | Añadir Input que permita ingresar el cumpleaños con sus validaciones | 2 | Luis Pineda | Done |
-|            |                                                      | TA05 | Añadir Input de rol | Añadir Input que permita ingresar el rol con sus validaciones | 2 | Luis Pineda | Done |
-|            |                                                      | TA06 | Añadir Input email | Añadir Input que permita ingresar el email con sus validaciones | 2 | Luis Pineda | Done |
-|            |                                                      | TA07 | Añadir Input de contraseña | Añadir Input que permita ingresar la contraseña con sus validaciones | 2 | Luis Pineda | Done |
-|            |                                                      | TA08 | Añadir botón de registro | Añadir botón que permita el registro y vuelva al login | 1 | Luis Pineda | Done |
-| #183136090 | HU32 Registro de usuario en la base de datos | TA01 | Crear colección de la base de datos | Crear una colección que contenga los datos de los usuarios | 2 | Luis Pineda | Done |
-|            |                                                      | TA02 | Crear consulta | Generar una consulta POST que añada un elemento a la colección | 1 | Luis Pineda | Done |
-| #183109755 | HU02: Inicio de sesión | TA01 | Añadir título | Añadir título que indique en qué vista se encuentra | 1 | Luis Pineda | Done |
-|            |                                                      | TA02 | Añadir Input de email | Añadir un Input para el email y validarlo | 2 | Luis Pineda | Done |
-|            |                                                      | TA03 | Añadir Input de contraseña | Añadir un Input para la contraseña y validarlo | 2 | Luis Pineda | Done |
-|            |                                                      | TA04 | Añadir botón de ingreso | Añadir botón que ingrese a la plataforma | 1 | Luis Pineda | Done |
-| #183136092 | HU33: Obtención de credenciales de usuario | TA01 | Realizar consulta | Agregar una consulta GET que permita obtener las credenciales de los usuarios y comprobarlas en el login | 3 | Luis Pineda | Done |
-|            |                                                      |  |  |  |  |  |
-| #183109758 | HU03: Visualización de perfil | TA01 | Añadir cuadro de datos | Añadir un cuadro que contenga los datos principales del usuario como nombre, nacimiento, celular y correo | 1 | Cristhian Gomez | Done |
-|            |                                                      | TA02 | Añadir foto del usuario | Añadir la foto del usuario en el cuadro | 2 | Cristhian Gomez | Done |
-|            |                                                      | TA03 | Añadir íconos | Añadir íconos la información del usuario | 1 | Cristhian Gomez | Done |
-|            |                                                      | TA04 | Añadir lista de opciones rápidas | Añadir las opciones de visualizar mis sesiones, citas e historial médico. | 2 | Cristhian Gomez | Done |
-|            |                                                      | TA05 | Vincular las opciones | Vincular las opciones a sus respectivas vistas | 3 | Cristhian Gomez | Done |
-| #183136099 | HU34: Obtención de datos personales del usuario | TA01 | Realizar consulta | Realizar consulta GET que obtenga los datos de los usuarios de la base de datos | 3 | Cristhian Gomez | Done |
-|            |                                                      | TA02 | Guardar información | Generar una variable que guarde los datos obtenidos del usuario para mostrarlos de manera ordenada en la vista | 3 | Cristhian Gomez | Done |
+| Sprint # | Sprint 1 | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story | Work-item/Task | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Id | Tittle | Id | Tittle | Description | Estimation (Hours) | Assigned To | Status (To-do /In-Process /To-Review /Done) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183109786  | HU24: Información sobre las funciones para los pacientes  | TA01  | Añadir títulos  | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento pacientes.  | 2 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir descripción  | Se añadirán párrafos que describan las funciones para los pacientes con más detalles.  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir imágenes  | Se añadirán imágenes representativas por cada función para paciente nombrada  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA04  | Añadir sección hero  | Añadir sección inicial en la que se describa brevemente a la plataforma.  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183109788  | HU26: Información sobre las funciones para los fisioterapeutas  | TA01  | Añadir títulos  | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento fisioterapeutas.  | 2 |  Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir descripción  | Se añadirán párrafos que describan las funciones para los fisioterapeutas con más detalles.  | 3 |  Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir imágenes  | Se añadirán imágenes representativas por cada función para fisioterapeuta nombrada  | 3 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA04  | Añadir botón de unirse  | Se añadirá un botón que traslade al fisioterapeuta a la aplicación web.  | 4 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- |
+| #183109794  | HU28: Sección comentarios  | TA01  | Añadir cuadros para los testimonios  | Se añadirán 3 cuadros para mostrar los testimonios dados por pacientes usuarios de la aplicación.  | 2 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir comentarios   | Se añadirán los comentarios como tal en los cuadros correspondiente.  | 2 | Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir fotos de los comentarios  | Se añadirán las fotos de las pacientes que brindaron su comentario.  | 2 |  Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+| #183136085  | HU30: Desplazamiento en el sitio web estático  | TA01  | Añadir lista de etiquetas  | Se añadirán las etiquetas de Home, Services, Pricing, Testimonials y About Us correspondientes a las secciones dentro de la landing page  | 1 |  María Ahuanari | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Aplicar estilo de etiquetactiva  | Se aplicará la pseudo clase hover para mostrar qué etiquetas se encuentran activas.  | 2 |  María Ahuanari | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Vincular etiquetas con secciones   | Se vinculará las etiquetas a través de los id para facilitar el desplazamiento del usuario dentro de la landing page.  | 1 |  María Ahuanari | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183136086  | HU31: Canalesde contacto  | TA01  | Añadir íconos de redes sociales  | Se añadirán los íconos de las diferentes redes sociales utilzadas por Theraphy  | 1 |  María Ahuanari | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir enlace a los íconos  | Se añadirán los enlaces correspondientes a las cuentas de las redes sociales para que los usuarios puedan acceder fácilmente a ellas.  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir correo electrónico  | Se añadirá el correo para contacto con Theraphy  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA04  | Añadir dirección y número de teléfono  | Se añadirá la dirección y número telefónico de Teraphy  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183136087  | HU13: Reserva de consulta médica  | TA01  | Agregar botón de agendamiento de cita en el perfil de doctor  | Se agregará un botón que permita iniciar el proceso de reserva de cita médica  | 1  | Cristhian Gómez   | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir calendario de selección de fecha  | Se añadirá la vista de un calendario donde el usuario podrá seleccionar la fecha en que se realizará la cita médica.  | 2  | Jose Del Carpio | To Do  |
+|     |     | TA03  | Añadir sección de pago de la reserva de cita médica  | Se añadirá una sección que el usuario rellenará con los datos de su tarjeta para realizar el pago de la cita médica   | 2   | María Ahuanari  | Done   |
+| #183136088  | HU08:  Visualización de ejercicios   | TA01  | Agregar sección para la visualización de las sesiones de ejercicios  | Se añadirá una sección que presente los videos de ejercicios a realizar para cada tratamiento.  | 2  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02   | Añadir video de la sesión   | Se añadirá el video que contenga los ejercicios a realizar en la sesión que se ha seleccionado.   | 1  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir botones de cambio de sesión  | Se añadirán los botones que permitan movilizarse a una siguiente sesión o a una anterior.  | 3  | Leonardo Arrieta  | Done  |
+| #183136089 | HU09: Publicación de videos de ejercicios   | TA01  | Añadir sección para la publicación de un nuevo video de ejercicios  | Se agregará una sección que presenta el formulario para la publicación de un video de ejercicios  | 2  | Cristhian Gómez   | To-do  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183136090 | HU07: Búsqueda de tratamientos     | TA01  | Añadir sección de tratamientos  | Se añadirá una sección que presentará la lista de tratamientos publicados en la aplicación   | 2  | Jose Del Carpio  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir caja de búsqueda | Se añadirá un input que permita ingresar el nombre de un tratamiento | 2  | Jose Del Carpio  | Done  |
+|     |     | TA03  | Agregar lista de resultados por coincidencia  | Se enlistarán cada uno de los tratamientos que coincidan con el nombre ingresado en la barra de búsqueda  | 3  | Jose Del Carpio  | Done  |
+| #183136091 | HU18: Visualización de horario de consultas   | TA01  | Agregar lista de citas médicas agendas  | Se agregará una lista que muestre a todas las citas agendadas para el doctor  | 3  | Cristhian Gómez   | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir vista de detalles de cita médica    | Se añadirá una vista que presentará la información de cada cita médica reservada.  | 2  | Maria Ahuanari  | Done  |
+| #183136092 | HU19: Envío de diagnóstico y recomendaciones     | TA01  | Añadir botón de nuevo diagnóstico  | Se añadirá un botón en la vista de una cita médica que permita iniciar el proceso de envío de diagnóstico a un paciente.  | 2  | Luis Pineda  | Done |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02 | Añadir caja de texto | Se añadirá input para ingresar el diagnóstico que se le brindará al paciente | 2  | Luis Pineda  | Done  |
+| #183136093 | HU20: Visualización de los resultados de la consulta   | TA01  | Agregar botón | Se añadirá un botón que permita al usuario direccionarse a la vista de resultados de consultas médicas  | 2  | Leonardo Arrieta  | Done |
+|     |     | TA02  | Añadir vista de los resultados de las consultas médicas  | Se añadirá una sección que presentará los resultados de cada consulta médica realizada.  | 3  | Leonardo Arrieta  | Done |
+| #183136094 | HU21: Calificación de fisioterapeutas  | TA01  | Añadir título de reseñas  | Agregar título que indique que se presentarán las reseñas del profesional  | 1  | Cristhian Gomez  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir lista de reseñas dadas  | Mostrar las reseñas realizadas previamente al fisioterapeuta  | 2  | Cristhian Gomez  | Done  |
+|     |     | TA03  | Añadir botón de nueva reseña  | Añadir botón que lleve al formulario de nueva reseña  | 1  | Cristhian Gomez  | Done  |
+| #183109753  | HU01: Registro de cuenta  | TA01  | Añadir título  | Añadir título que indique que se encuentra en el registro  | 1  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir Input de nombre  | Añadir Input que permita ingresar el nombre con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir Input de apellido  | Añadir Input que permita ingresar el apellido con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA04  | Añadir Input cumpleaños  | Añadir Input que permita ingresar el cumpleaños con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA05  | Añadir Input de rol  | Añadir Input que permita ingresar el rol con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA06  | Añadir Input email  | Añadir Input que permita ingresar el email con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA07  | Añadir Input de contraseña  | Añadir Input que permita ingresar la contraseña con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA08  | Añadir botón de registro  | Añadir botón que permita el registro y vuelva al login  | 1  | Luis Pineda  | Done  |
+| #183136090  | HU32 Registro de usuario en la base de datos  | TA01  | Crear colección de la base de datos  | Crear una colección que contenga los datos de los usuarios  | 2  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Crear consulta  | Generar una consulta POST que añada un elemento a la colección  | 1  | Luis Pineda  | Done  |
+| #183109755  | HU02: Inicio de sesión  | TA01  | Añadir título  | Añadir título que indique en qué vista se encuentra  | 1  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir Input de email  | Añadir un Input para el email y validarlo  | 2  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir Input de contraseña  | Añadir un Input para la contraseña y validarlo  | 2  | Luis Pineda  | Done  |
+|     |     | TA04  | Añadir botón de ingreso  | Añadir botón que ingrese a la plataforma  | 1  | Luis Pineda  | Done  |
+| #183136092  | HU33: Obtención de credenciales de usuario  | TA01  | Realizar consulta  | Agregar una consulta GET que permita obtener las credenciales de los usuarios y comprobarlas en el login  | 3  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183109758  | HU03: Visualización de perfil  | TA01  | Añadir cuadro de datos  | Añadir un cuadro que contenga los datos principales del usuario como nombre, nacimiento, celular y correo  | 1  | Cristhian Gomez  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir foto del usuario  | Añadir la foto del usuario en el cuadro  | 2  | Cristhian Gomez  | Done  |
+|     |     | TA03  | Añadir íconos  | Añadir íconos la información del usuario  | 1  | Cristhian Gomez  | Done  |
+|     |     | TA04  | Añadir lista de opciones rápidas  | Añadir las opciones de visualizar mis sesiones, citas e historial médico.  | 2  | Cristhian Gomez  | Done  |
+|     |     | TA05  | Vincular las opciones  | Vincular las opciones a sus respectivas vistas  | 3  | Cristhian Gomez  | Done  |
+| #183136099  | HU34: Obtención de datos personales del usuario  | TA01  | Realizar consulta  | Realizar consulta GET que obtenga los datos de los usuarios de la base de datos  | 3  | Cristhian Gomez  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Guardar información  | Generar una variable que guarde los datos obtenidos del usuario para mostrarlos de manera ordenada en la vista  | 3  | Cristhian Gomez  | Done  |
+|   |   |   |   |   |   |   |   |   |
+
 
 #### **Development Evidence for Sprint Review**
 
